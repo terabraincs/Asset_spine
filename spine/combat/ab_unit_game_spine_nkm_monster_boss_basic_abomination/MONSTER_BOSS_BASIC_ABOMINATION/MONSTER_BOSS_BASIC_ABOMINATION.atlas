@@ -1,0 +1,258 @@
+
+MONSTER_BOSS_BASIC_ABOMINATION.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 719, 14
+  size: 68, 147
+  orig: 68, 147
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 789, 545
+  size: 64, 144
+  orig: 64, 144
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 789, 678
+  size: 65, 145
+  orig: 65, 145
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 789, 611
+  size: 65, 145
+  orig: 65, 145
+  offset: 0, 0
+  index: -1
+antenna_1_a
+  rotate: true
+  xy: 496, 163
+  size: 294, 253
+  orig: 294, 253
+  offset: 0, 0
+  index: -1
+antenna_1_b
+  rotate: true
+  xy: 561, 747
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+antenna_1_c
+  rotate: false
+  xy: 561, 851
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+antenna_1_d
+  rotate: true
+  xy: 936, 646
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+antenna_1_e
+  rotate: false
+  xy: 317, 8
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+antenna_2_a
+  rotate: true
+  xy: 561, 469
+  size: 274, 216
+  orig: 274, 216
+  offset: 0, 0
+  index: -1
+antenna_2_b
+  rotate: true
+  xy: 354, 2
+  size: 139, 292
+  orig: 139, 292
+  offset: 0, 0
+  index: -1
+antenna_2_c
+  rotate: true
+  xy: 868, 210
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+antenna_2_e
+  rotate: false
+  xy: 751, 205
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 459
+  size: 557, 562
+  orig: 557, 562
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 65
+  size: 392, 343
+  orig: 392, 343
+  offset: 0, 0
+  index: -1
+body_part_1
+  rotate: true
+  xy: 868, 164
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+body_part_10
+  rotate: true
+  xy: 789, 358
+  size: 51, 136
+  orig: 51, 136
+  offset: 0, 0
+  index: -1
+body_part_11
+  rotate: false
+  xy: 672, 765
+  size: 33, 84
+  orig: 33, 84
+  offset: 0, 0
+  index: -1
+body_part_2
+  rotate: false
+  xy: 648, 4
+  size: 69, 157
+  orig: 69, 157
+  offset: 0, 0
+  index: -1
+body_part_3
+  rotate: false
+  xy: 708, 874
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+body_part_4
+  rotate: true
+  xy: 561, 982
+  size: 39, 169
+  orig: 39, 169
+  offset: 0, 0
+  index: -1
+body_part_5
+  rotate: false
+  xy: 751, 886
+  size: 267, 135
+  orig: 267, 135
+  offset: 0, 0
+  index: -1
+body_part_6
+  rotate: true
+  xy: 2, 2
+  size: 61, 136
+  orig: 61, 136
+  offset: 0, 0
+  index: -1
+body_part_7
+  rotate: true
+  xy: 930, 495
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+body_part_8
+  rotate: false
+  xy: 751, 745
+  size: 265, 139
+  orig: 265, 139
+  offset: 0, 0
+  index: -1
+body_part_9
+  rotate: true
+  xy: 868, 308
+  size: 48, 131
+  orig: 48, 131
+  offset: 0, 0
+  index: -1
+body_tube_1
+  rotate: false
+  xy: 347, 143
+  size: 147, 314
+  orig: 147, 314
+  offset: 0, 0
+  index: -1
+body_tube_4
+  rotate: true
+  xy: 140, 8
+  size: 55, 175
+  orig: 55, 175
+  offset: 0, 0
+  index: -1
+monitor_1
+  rotate: false
+  xy: 936, 544
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+monitor_1_fx
+  rotate: false
+  xy: 930, 393
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+monitor_2
+  rotate: true
+  xy: 789, 57
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+monitor_2_fx
+  rotate: false
+  xy: 890, 63
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+monitor_3
+  rotate: true
+  xy: 789, 478
+  size: 65, 139
+  orig: 65, 139
+  offset: 0, 0
+  index: -1
+monitor_3_fx
+  rotate: true
+  xy: 789, 411
+  size: 65, 139
+  orig: 65, 139
+  offset: 0, 0
+  index: -1
+monitor_4
+  rotate: false
+  xy: 708, 745
+  size: 33, 127
+  orig: 33, 127
+  offset: 0, 0
+  index: -1
+monitor_4_fx
+  rotate: false
+  xy: 751, 340
+  size: 33, 127
+  orig: 33, 127
+  offset: 0, 0
+  index: -1

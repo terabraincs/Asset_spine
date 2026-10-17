@@ -1,0 +1,160 @@
+
+MONSTER_BOSS_BASIC_NEPHILIM_ESPR2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_big_tail
+  rotate: false
+  xy: 2, 874
+  size: 817, 124
+  orig: 817, 124
+  offset: 0, 0
+  index: -1
+front_body_01
+  rotate: false
+  xy: 483, 583
+  size: 295, 289
+  orig: 295, 289
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 2, 454
+  size: 246, 418
+  orig: 246, 418
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 310, 48
+  size: 62, 278
+  orig: 62, 278
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: false
+  xy: 861, 604
+  size: 76, 158
+  orig: 76, 158
+  offset: 0, 0
+  index: -1
+front_left_hand_01
+  rotate: false
+  xy: 939, 612
+  size: 52, 150
+  orig: 52, 150
+  offset: 0, 0
+  index: -1
+front_left_hand_02
+  rotate: false
+  xy: 793, 289
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 483, 470
+  size: 111, 301
+  orig: 111, 301
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 176, 17
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 780, 590
+  size: 79, 282
+  orig: 79, 282
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 591, 15
+  size: 220, 218
+  orig: 220, 218
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 786, 478
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 861, 764
+  size: 136, 234
+  orig: 136, 234
+  offset: 0, 0
+  index: -1
+front_right_leg_4
+  rotate: true
+  xy: 250, 455
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+front_right_leg_5
+  rotate: false
+  xy: 793, 422
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+front_right_leg_6
+  rotate: false
+  xy: 793, 357
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+rags_01
+  rotate: false
+  xy: 335, 234
+  size: 254, 234
+  orig: 254, 234
+  offset: 0, 0
+  index: -1
+rags_02
+  rotate: false
+  xy: 176, 133
+  size: 157, 319
+  orig: 157, 319
+  offset: 0, 0
+  index: -1
+rags_03
+  rotate: false
+  xy: 250, 503
+  size: 231, 369
+  orig: 231, 369
+  offset: 0, 0
+  index: -1
+rags_04
+  rotate: false
+  xy: 591, 235
+  size: 200, 233
+  orig: 200, 233
+  offset: 0, 0
+  index: -1
+rags_05
+  rotate: true
+  xy: 335, 112
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+rags_06
+  rotate: false
+  xy: 2, 2
+  size: 172, 450
+  orig: 172, 450
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+SHIP_A_GLEIPNIR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01_cover_main2
+  rotate: false
+  xy: 648, 41
+  size: 246, 114
+  orig: 246, 114
+  offset: 0, 0
+  index: -1
+body_01_cover_sub
+  rotate: true
+  xy: 983, 860
+  size: 162, 23
+  orig: 162, 23
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 103
+  size: 644, 224
+  orig: 644, 224
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 329
+  size: 644, 376
+  orig: 644, 376
+  offset: 0, 0
+  index: -1
+d1
+  rotate: true
+  xy: 181, 54
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+d10
+  rotate: false
+  xy: 572, 80
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+d11
+  rotate: false
+  xy: 861, 162
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+d12
+  rotate: false
+  xy: 905, 465
+  size: 51, 104
+  orig: 51, 104
+  offset: 0, 0
+  index: -1
+d13
+  rotate: false
+  xy: 919, 370
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+d14
+  rotate: true
+  xy: 470, 63
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 905, 440
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+d3
+  rotate: true
+  xy: 626, 52
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+d4
+  rotate: true
+  xy: 279, 68
+  size: 33, 101
+  orig: 33, 101
+  offset: 0, 0
+  index: -1
+d5
+  rotate: true
+  xy: 85, 46
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 983, 794
+  size: 12, 64
+  orig: 12, 64
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 1008, 982
+  size: 13, 40
+  orig: 13, 40
+  offset: 0, 0
+  index: -1
+d8
+  rotate: true
+  xy: 382, 68
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+d9
+  rotate: true
+  xy: 2, 2
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+damaged
+  rotate: false
+  xy: 2, 707
+  size: 979, 315
+  orig: 979, 315
+  offset: 0, 0
+  index: -1
+dl
+  rotate: true
+  xy: 775, 160
+  size: 24, 84
+  orig: 24, 84
+  offset: 0, 0
+  index: -1
+fx_booster
+  rotate: false
+  xy: 2, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 648, 428
+  size: 255, 141
+  orig: 255, 141
+  offset: 0, 0
+  index: -1
+h10
+  rotate: false
+  xy: 963, 622
+  size: 11, 83
+  orig: 11, 83
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 572, 52
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 919, 404
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 530, 61
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+h5
+  rotate: true
+  xy: 132, 2
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 85, 2
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 648, 571
+  size: 313, 134
+  orig: 313, 134
+  offset: 0, 0
+  index: -1
+h8
+  rotate: true
+  xy: 775, 186
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1
+h9
+  rotate: true
+  xy: 648, 157
+  size: 269, 125
+  orig: 269, 125
+  offset: 0, 0
+  index: -1
