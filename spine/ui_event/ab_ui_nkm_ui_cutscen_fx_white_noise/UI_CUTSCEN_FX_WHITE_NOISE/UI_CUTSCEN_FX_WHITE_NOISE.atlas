@@ -1,0 +1,62 @@
+
+UI_CUTSCEN_FX_WHITE_NOISE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WhiteNoise_00000
+  rotate: false
+  xy: 2, 752
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00001
+  rotate: false
+  xy: 2, 502
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00002
+  rotate: false
+  xy: 446, 752
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00003
+  rotate: false
+  xy: 2, 252
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00004
+  rotate: false
+  xy: 446, 502
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00005
+  rotate: false
+  xy: 2, 2
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00006
+  rotate: false
+  xy: 446, 252
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1
+WhiteNoise_00007
+  rotate: false
+  xy: 446, 2
+  size: 442, 248
+  orig: 442, 248
+  offset: 0, 0
+  index: -1

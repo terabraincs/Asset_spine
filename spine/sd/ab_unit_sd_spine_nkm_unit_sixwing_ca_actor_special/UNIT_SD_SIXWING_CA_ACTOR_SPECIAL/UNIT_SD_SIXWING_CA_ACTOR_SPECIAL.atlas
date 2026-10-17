@@ -1,0 +1,265 @@
+
+UNIT_SD_SIXWING_CA_ACTOR_SPECIAL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back skirt
+  rotate: false
+  xy: 628, 241
+  size: 142, 98
+  orig: 142, 98
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 829, 355
+  size: 155, 184
+  orig: 155, 184
+  offset: 0, 0
+  index: -1
+body race3 left
+  rotate: true
+  xy: 829, 40
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 787, 159
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 749, 137
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 784, 262
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 829, 145
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 937, 92
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 272
+  size: 394, 238
+  orig: 394, 238
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 614, 377
+  size: 213, 133
+  orig: 213, 133
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 829, 89
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 965, 279
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 829, 276
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 746, 5
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 523, 22
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 829, 197
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 628, 137
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 389, 15
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 16
+  size: 214, 254
+  orig: 214, 254
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 382, 105
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 398, 329
+  size: 214, 181
+  orig: 214, 181
+  offset: 0, 0
+  index: -1
+head acc
+  rotate: false
+  xy: 218, 79
+  size: 162, 191
+  orig: 162, 191
+  offset: 0, 0
+  index: -1
+head acc2
+  rotate: false
+  xy: 505, 110
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 914, 92
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 862, 18
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 628, 110
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 809, 137
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 382, 250
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 382, 86
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 829, 2
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 218, 16
+  size: 61, 169
+  orig: 61, 169
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 659, 14
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 787, 137
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 938, 128
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 398, 234
+  size: 228, 93
+  orig: 228, 93
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 614, 341
+  size: 34, 168
+  orig: 34, 168
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+UNIT_SD_VARUNA_CA_CHAKRAM.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 756, 199
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 732, 107
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 818, 369
+  size: 197, 131
+  orig: 197, 131
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 973, 126
+  size: 40, 100
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 689, 117
+  size: 41, 115
+  orig: 41, 115
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 801, 29
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 973, 228
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 434, 8
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 265
+  size: 390, 235
+  orig: 390, 235
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 255, 53
+  size: 210, 131
+  orig: 210, 131
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 171, 9
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 616, 35
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 481, 27
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 842, 152
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 621, 234
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 834, 73
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 842, 233
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 670, 18
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 394, 326
+  size: 228, 174
+  orig: 228, 174
+  offset: 0, 0
+  index: -1
+front_hair2
+  rotate: true
+  xy: 818, 336
+  size: 31, 188
+  orig: 31, 188
+  offset: 0, 0
+  index: -1
+front_hair3
+  rotate: true
+  xy: 915, 23
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 65
+  size: 251, 198
+  orig: 251, 198
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 481, 104
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 624, 320
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 382, 20
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 388, 43
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 801, 80
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 460, 43
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 962, 315
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 818, 322
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 1017, 483
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 976, 25
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 2
+  size: 61, 167
+  orig: 61, 167
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 603, 110
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 732, 212
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 976, 58
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: true
+  xy: 255, 16
+  size: 35, 125
+  orig: 35, 125
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 394, 232
+  size: 225, 92
+  orig: 225, 92
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 388, 65
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1

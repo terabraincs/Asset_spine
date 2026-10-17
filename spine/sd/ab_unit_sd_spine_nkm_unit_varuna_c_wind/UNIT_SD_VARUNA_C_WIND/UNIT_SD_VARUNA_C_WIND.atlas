@@ -1,0 +1,314 @@
+
+UNIT_SD_VARUNA_C_WIND.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_hair_ac_left
+  rotate: false
+  xy: 659, 6
+  size: 43, 155
+  orig: 43, 155
+  offset: 0, 0
+  index: -1
+back_hair_ac_right
+  rotate: false
+  xy: 823, 166
+  size: 54, 165
+  orig: 54, 165
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 580, 7
+  size: 77, 128
+  orig: 77, 128
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 896, 66
+  size: 38, 97
+  orig: 38, 97
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 45, 12
+  size: 35, 98
+  orig: 35, 98
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 2, 2
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 879, 165
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 896, 299
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 52, 133
+  size: 377, 227
+  orig: 377, 227
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 607, 163
+  size: 203, 127
+  orig: 203, 127
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 930, 279
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 823, 405
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 506, 5
+  size: 130, 72
+  orig: 130, 72
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 82, 2
+  size: 129, 72
+  orig: 129, 72
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 336, 2
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 704, 38
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 422, 2
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 248, 3
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+front_hair_left_ac
+  rotate: true
+  xy: 281, 280
+  size: 230, 179
+  orig: 230, 179
+  offset: 0, 0
+  index: -1
+hair_ac_03
+  rotate: false
+  xy: 896, 333
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 778, 39
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 462, 292
+  size: 218, 207
+  orig: 218, 207
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 762, 490
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 934, 257
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 607, 137
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 762, 468
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 52, 112
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 63, 119
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 45, 5
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 779, 2
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 762, 293
+  size: 59, 162
+  orig: 59, 162
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 896, 428
+  size: 116, 82
+  orig: 116, 82
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 631, 141
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 934, 211
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+robe_01
+  rotate: false
+  xy: 823, 360
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+robe_02
+  rotate: true
+  xy: 812, 457
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+robe_03
+  rotate: true
+  xy: 704, 2
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+robe_back
+  rotate: true
+  xy: 281, 134
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+robe_head_01
+  rotate: false
+  xy: 435, 137
+  size: 170, 141
+  orig: 170, 141
+  offset: 0, 0
+  index: -1
+robe_head_02
+  rotate: false
+  xy: 811, 5
+  size: 117, 32
+  orig: 117, 32
+  offset: 0, 0
+  index: -1
+robe_head_03
+  rotate: false
+  xy: 823, 333
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 671, 292
+  size: 218, 89
+  orig: 218, 89
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: true
+  xy: 156, 3
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 2, 112
+  size: 48, 398
+  orig: 48, 398
+  offset: 0, 0
+  index: -1

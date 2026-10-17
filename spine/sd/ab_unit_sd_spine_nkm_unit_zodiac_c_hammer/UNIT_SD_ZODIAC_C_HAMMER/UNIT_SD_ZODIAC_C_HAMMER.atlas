@@ -1,0 +1,293 @@
+
+UNIT_SD_ZODIAC_C_HAMMER.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 639, 188
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 930, 94
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 483, 7
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 808, 243
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 930, 241
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+bodyacc
+  rotate: false
+  xy: 768, 243
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 768, 193
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 178
+  size: 332, 200
+  orig: 332, 200
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 689, 71
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 369, 5
+  size: 179, 112
+  orig: 179, 112
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 906, 10
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 867, 195
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 790, 81
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 860, 82
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 527, 188
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 689, 3
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 931, 137
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 409, 186
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 405, 263
+  size: 247, 175
+  orig: 247, 175
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 158, 15
+  size: 209, 161
+  orig: 209, 161
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 802, 2
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 699, 307
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 808, 367
+  size: 200, 143
+  orig: 200, 143
+  offset: 0, 0
+  index: -1
+hat_front
+  rotate: true
+  xy: 204, 240
+  size: 270, 159
+  orig: 270, 159
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 12
+  size: 164, 154
+  orig: 164, 154
+  offset: 0, 0
+  index: -1
+head_rib
+  rotate: false
+  xy: 818, 194
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 621, 21
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 204, 179
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 599, 18
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 599, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 2, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 158, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 21, 5
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 571, 8
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 264, 186
+  size: 52, 143
+  orig: 52, 143
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 483, 41
+  size: 204, 143
+  orig: 204, 143
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 621, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 223, 182
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 808, 286
+  size: 192, 79
+  orig: 192, 79
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 365, 244
+  size: 38, 266
+  orig: 38, 266
+  offset: 0, 0
+  index: -1
+weapontop
+  rotate: true
+  xy: 582, 292
+  size: 218, 115
+  orig: 218, 115
+  offset: 0, 0
+  index: -1

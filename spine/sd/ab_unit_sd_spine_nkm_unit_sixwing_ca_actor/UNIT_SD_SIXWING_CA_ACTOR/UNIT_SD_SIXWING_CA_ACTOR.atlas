@@ -1,0 +1,272 @@
+
+UNIT_SD_SIXWING_CA_ACTOR.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair
+  rotate: true
+  xy: 398, 293
+  size: 217, 243
+  orig: 217, 243
+  offset: 0, 0
+  index: -1
+back hair_2
+  rotate: true
+  xy: 218, 2
+  size: 53, 183
+  orig: 53, 183
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 403, 2
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 643, 213
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 669, 18
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 643, 175
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 727, 60
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 675, 66
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 353, 65
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 272
+  size: 394, 238
+  orig: 394, 238
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 218, 57
+  size: 213, 133
+  orig: 213, 133
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 808, 128
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 808, 73
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 416, 85
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 754, 197
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 934, 242
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 475, 6
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 539, 172
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 934, 378
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 16
+  size: 214, 254
+  orig: 214, 254
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 416, 164
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 643, 329
+  size: 194, 181
+  orig: 194, 181
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 772, 2
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 900, 210
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 960, 215
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 900, 192
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 808, 186
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 398, 274
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 922, 209
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 353, 101
+  size: 61, 169
+  orig: 61, 169
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 552, 85
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 747, 175
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 808, 25
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+tale
+  rotate: false
+  xy: 837, 184
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+tale2
+  rotate: false
+  xy: 609, 6
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 839, 282
+  size: 228, 93
+  orig: 228, 93
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 772, 27
+  size: 34, 168
+  orig: 34, 168
+  offset: 0, 0
+  index: -1
