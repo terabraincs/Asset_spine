@@ -1,0 +1,146 @@
+
+UNIT_SD_REPLACER_CA_KING.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 290, 106
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 447, 182
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 470, 281
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 455, 418
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 382, 94
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 271, 21
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 335
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 170, 21
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 290, 173
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 470, 356
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 428, 117
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 292, 272
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 292, 367
+  size: 161, 142
+  orig: 161, 142
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 356, 77
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 164, 109
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 164, 156
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 170, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 468, 131
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 2
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 72
+  size: 160, 261
+  orig: 160, 261
+  offset: 0, 0
+  index: -1

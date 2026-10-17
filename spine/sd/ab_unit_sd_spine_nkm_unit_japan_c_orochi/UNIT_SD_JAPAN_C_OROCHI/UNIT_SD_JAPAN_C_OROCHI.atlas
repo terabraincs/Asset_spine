@@ -1,0 +1,251 @@
+
+UNIT_SD_JAPAN_C_OROCHI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 350, 287
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 134, 2
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+body_back_2
+  rotate: false
+  xy: 160, 206
+  size: 55, 167
+  orig: 55, 167
+  offset: 0, 0
+  index: -1
+body_front2
+  rotate: true
+  xy: 159, 74
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+body_front_1
+  rotate: false
+  xy: 2, 205
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 194, 122
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 344, 85
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 416, 306
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 344, 107
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 209, 59
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 375
+  size: 213, 128
+  orig: 213, 128
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 258, 127
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 426, 388
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 436, 47
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 482, 139
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 323, 2
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 272, 79
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 198, 7
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 275, 7
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 404, 126
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 362, 12
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 74
+  size: 155, 129
+  orig: 155, 129
+  offset: 0, 0
+  index: -1
+hair_back_ac
+  rotate: false
+  xy: 217, 394
+  size: 207, 109
+  orig: 207, 109
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 217, 202
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 407, 23
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 404, 94
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 3
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 330, 187
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 493, 366
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 159, 112
+  size: 33, 91
+  orig: 33, 91
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 217, 300
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 330, 287
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 436, 20
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 436, 181
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 323, 135
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1

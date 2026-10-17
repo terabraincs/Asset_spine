@@ -1,0 +1,202 @@
+
+UNIT_SD_C_JAPAN_ZENJIROU.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 170, 4
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 481, 436
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 318, 6
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 423, 119
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 280, 2
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 381, 198
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 335
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 280, 195
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 181, 178
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 457, 126
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 347, 44
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 458, 285
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 458, 285
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 458, 285
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 466, 188
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 380, 103
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 324, 100
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 292, 283
+  size: 164, 91
+  orig: 164, 91
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 78
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 146, 83
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 292, 376
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 146, 184
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 434, 386
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 209
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 280, 178
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 347, 8
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 8
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 387, 49
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1

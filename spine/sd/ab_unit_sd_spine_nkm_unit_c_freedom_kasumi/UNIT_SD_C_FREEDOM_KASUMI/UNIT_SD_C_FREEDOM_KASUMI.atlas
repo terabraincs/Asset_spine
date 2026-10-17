@@ -1,0 +1,216 @@
+
+UNIT_SD_C_FREEDOM_KASUMI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 208, 7
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 477, 284
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 268, 10
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 395, 92
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 339, 33
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 271, 37
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 345, 192
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 358
+  size: 253, 152
+  orig: 253, 152
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 256, 190
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 133, 87
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 372, 55
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 476, 129
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 416, 267
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 150, 2
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 420, 178
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 395, 125
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 271, 101
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 336, 102
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 257, 367
+  size: 143, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 159, 174
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 256, 267
+  size: 57, 158
+  orig: 57, 158
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 413, 356
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 71
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 367, 345
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 257, 326
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 189
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 133, 174
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 480, 239
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 9
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 300
+  size: 246, 56
+  orig: 246, 56
+  offset: 0, 0
+  index: -1

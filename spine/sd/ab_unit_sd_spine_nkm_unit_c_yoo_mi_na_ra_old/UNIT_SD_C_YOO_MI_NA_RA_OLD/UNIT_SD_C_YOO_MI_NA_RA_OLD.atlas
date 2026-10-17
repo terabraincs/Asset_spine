@@ -1,0 +1,258 @@
+
+UNIT_SD_C_YOO_MI_NA_RA_OLD.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 375, 281
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 467, 358
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 442, 7
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 472, 290
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 471, 3
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 421, 399
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 378, 205
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 433
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 2, 15
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 329, 30
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 266, 27
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 329, 67
+  size: 91, 54
+  orig: 91, 54
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 324, 160
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 266, 63
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 460, 118
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 256, 156
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 213, 55
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 416, 7
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 385, 81
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 90, 4
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 156
+  size: 93, 197
+  orig: 93, 197
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 90, 51
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 385, 2
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 378, 166
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 97, 150
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 97, 235
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 337, 268
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 225, 248
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 363, 266
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 175, 5
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 225, 290
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 261, 353
+  size: 204, 44
+  orig: 204, 44
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 454, 205
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: true
+  xy: 442, 75
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1

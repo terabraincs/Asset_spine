@@ -1,0 +1,153 @@
+
+UNIT_SD_SCAVENGER_MA_EVOLVE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shadow
+  rotate: false
+  xy: 275, 52
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 236, 359
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 139, 2
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 2, 9
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 56, 14
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 486, 440
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 375, 153
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 416, 3
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 430, 48
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 319
+  size: 232, 190
+  orig: 232, 190
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 236, 235
+  size: 192, 122
+  orig: 192, 122
+  offset: 0, 0
+  index: -1
+left_arm_ac
+  rotate: true
+  xy: 139, 87
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 2, 62
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 486, 418
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 375, 45
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 221, 126
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 486, 403
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 91, 31
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 2, 174
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 430, 202
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 160, 174
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1

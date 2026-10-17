@@ -1,0 +1,223 @@
+
+UNIT_SD_C_SCHOOL_PRESIDENT_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 128, 43
+  size: 62, 118
+  orig: 62, 118
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 412, 74
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 439, 114
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 385, 52
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 112, 10
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 192, 24
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 358
+  size: 253, 152
+  orig: 253, 152
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 258
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 273, 314
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 356, 122
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 415, 216
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 253, 126
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 411, 335
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 192, 99
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 267, 18
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 409, 139
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 267, 69
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 163
+  size: 185, 193
+  orig: 185, 193
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 414, 386
+  size: 124, 93
+  orig: 124, 93
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 273, 177
+  size: 25, 134
+  orig: 25, 134
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 273, 216
+  size: 34, 140
+  orig: 34, 140
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 189, 202
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 45
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 182, 2
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 2
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 257, 401
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 257, 386
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 439, 82
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 273, 252
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+wapon_1
+  rotate: false
+  xy: 273, 204
+  size: 200, 10
+  orig: 200, 10
+  offset: 0, 0
+  index: -1
+wapon_3
+  rotate: false
+  xy: 353, 41
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1

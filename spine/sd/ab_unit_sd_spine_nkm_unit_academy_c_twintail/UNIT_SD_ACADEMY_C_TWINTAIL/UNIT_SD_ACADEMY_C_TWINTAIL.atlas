@@ -1,0 +1,230 @@
+
+UNIT_SD_ACADEMY_C_TWINTAIL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 358, 83
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 422, 69
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 2, 2
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 470, 186
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 470, 255
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 422, 96
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 358
+  size: 253, 152
+  orig: 253, 152
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 269, 127
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 120, 63
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 296, 32
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 416, 33
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 416, 333
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 120, 9
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 207, 108
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 210, 17
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 358, 2
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 269, 69
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 207, 68
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 257, 319
+  size: 157, 105
+  orig: 157, 105
+  offset: 0, 0
+  index: -1
+hair_left_back
+  rotate: true
+  xy: 257, 426
+  size: 84, 212
+  orig: 84, 212
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 438, 216
+  size: 30, 115
+  orig: 30, 115
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 2, 153
+  size: 105, 203
+  orig: 105, 203
+  offset: 0, 0
+  index: -1
+hair_right_side_2
+  rotate: false
+  xy: 470, 325
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 220, 235
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 27
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 69, 2
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 471, 402
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 109, 201
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 470, 171
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 438, 171
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 376, 171
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 220, 204
+  size: 29, 154
+  orig: 29, 154
+  offset: 0, 0
+  index: -1

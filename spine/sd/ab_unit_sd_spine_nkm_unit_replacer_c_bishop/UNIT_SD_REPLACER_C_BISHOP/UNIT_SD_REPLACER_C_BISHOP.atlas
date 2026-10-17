@@ -1,0 +1,244 @@
+
+UNIT_SD_REPLACER_C_BISHOP.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_acc
+  rotate: false
+  xy: 443, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+back_acc
+  rotate: true
+  xy: 143, 60
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+back_hair
+  rotate: true
+  xy: 243, 306
+  size: 105, 180
+  orig: 105, 180
+  offset: 0, 0
+  index: -1
+back_hair_acc
+  rotate: false
+  xy: 150, 182
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 321, 9
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 243, 261
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 363, 278
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 107, 4
+  size: 45, 121
+  orig: 45, 121
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 368, 73
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 441, 441
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 366
+  size: 239, 144
+  orig: 239, 144
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 425, 334
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 61, 51
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 402, 20
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 368, 140
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 151, 311
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 422, 213
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 368, 187
+  size: 89, 52
+  orig: 89, 52
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 151, 260
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 212, 182
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 230, 2
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 402, 72
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 182
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 256, 62
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 441, 407
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+mask_2
+  rotate: false
+  xy: 263, 216
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 422, 189
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 3
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 261
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 461, 199
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 263, 186
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: true
+  xy: 243, 413
+  size: 97, 196
+  orig: 97, 196
+  offset: 0, 0
+  index: -1
+side_hair_acc
+  rotate: true
+  xy: 425, 260
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 2, 42
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1

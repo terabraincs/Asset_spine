@@ -1,0 +1,146 @@
+
+UNIT_SD_M_FUTURE_TITAN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shadow
+  rotate: false
+  xy: 219, 13
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 17
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 154, 131
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 445, 76
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 430, 41
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 348, 32
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 293, 5
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 348, 58
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 363, 103
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 267
+  size: 235, 243
+  orig: 235, 243
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 239, 227
+  size: 283, 110
+  orig: 283, 110
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 239, 128
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 327, 103
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 219, 87
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 351, 257
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 478, 32
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 351, 366
+  size: 148, 144
+  orig: 148, 144
+  offset: 0, 0
+  index: -1
+right_shield
+  rotate: false
+  xy: 154, 21
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 445, 112
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1

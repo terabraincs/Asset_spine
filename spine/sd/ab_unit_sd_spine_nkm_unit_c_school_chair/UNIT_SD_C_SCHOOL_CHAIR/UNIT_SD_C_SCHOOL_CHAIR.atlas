@@ -1,0 +1,244 @@
+
+UNIT_SD_C_SCHOOL_CHAIR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 255, 143
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 445, 58
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 420, 55
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 483, 121
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 386, 51
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+body_top
+  rotate: false
+  xy: 113, 6
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 262, 13
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+deodumi
+  rotate: true
+  xy: 183, 151
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 363
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 397, 220
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 264, 207
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 472, 68
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 299, 95
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 395, 121
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 397, 168
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 212, 85
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 212, 2
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 343, 120
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 334, 33
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 149
+  size: 179, 212
+  orig: 179, 212
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 44
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+hair_front_2
+  rotate: true
+  xy: 386, 26
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 483, 188
+  size: 27, 105
+  orig: 27, 105
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 2, 8
+  size: 34, 109
+  orig: 34, 109
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 183, 212
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 386, 335
+  size: 119, 51
+  orig: 119, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 264, 291
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 423, 30
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 386, 295
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 248, 405
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 248, 390
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 334, 2
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 152, 6
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 400, 388
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1

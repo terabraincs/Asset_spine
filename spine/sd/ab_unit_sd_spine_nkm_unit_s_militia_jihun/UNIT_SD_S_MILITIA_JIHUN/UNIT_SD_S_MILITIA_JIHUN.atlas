@@ -1,0 +1,230 @@
+
+UNIT_SD_S_MILITIA_JIHUN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 384, 242
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 347, 171
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+body_back_1
+  rotate: false
+  xy: 219, 96
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 475, 165
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 479, 98
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 475, 230
+  size: 26, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 299, 62
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 299, 95
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 356
+  size: 253, 152
+  orig: 253, 152
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 258, 170
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 132, 61
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 475, 299
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 180, 12
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 219, 52
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 431, 162
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 430, 82
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 299, 19
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 425, 2
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 480, 392
+  size: 24, 71
+  orig: 24, 71
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 374, 87
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 379, 3
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 257, 365
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 209
+  size: 143, 145
+  orig: 143, 145
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 396, 354
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 258, 247
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 219, 177
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 70, 20
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 147, 199
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 480, 377
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 480, 465
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 70, 61
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 7
+  size: 200, 66
+  orig: 200, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+UNIT_SD_PUPPET_C_BLIND_HALLOWEEN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_ac1
+  rotate: false
+  xy: 2, 342
+  size: 215, 162
+  orig: 215, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 143, 23
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 461, 207
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+body_ac2
+  rotate: false
+  xy: 469, 83
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 443, 28
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 120, 48
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 469, 110
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 365, 15
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+butter_1
+  rotate: false
+  xy: 365, 47
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 395, 256
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 110
+  size: 230, 139
+  orig: 230, 139
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 222, 80
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 143, 73
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 462, 173
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 429, 154
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 464, 254
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 464, 254
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 295, 18
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 395, 199
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 304, 80
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 224, 21
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 219, 329
+  size: 175, 181
+  orig: 175, 181
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 219, 208
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: false
+  xy: 361, 223
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 143, 199
+  size: 141, 74
+  orig: 141, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+head_ac2
+  rotate: false
+  xy: 435, 88
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+head_ac3
+  rotate: true
+  xy: 361, 102
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+head_ac4
+  rotate: true
+  xy: 357, 152
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 120, 28
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 402, 325
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 402, 363
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 414, 88
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 414, 47
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 222, 151
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1

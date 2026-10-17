@@ -1,0 +1,146 @@
+
+UNIT_SD_M_SL_AIR_BOMBER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 154
+  size: 265, 179
+  orig: 265, 179
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: true
+  xy: 471, 412
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 419, 230
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 335
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 180, 53
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 269, 109
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 118, 17
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 426, 172
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+expl_fx_01
+  rotate: false
+  xy: 180, 14
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+expl_fx_02
+  rotate: false
+  xy: 2, 2
+  size: 114, 55
+  orig: 114, 55
+  offset: 0, 0
+  index: -1
+expl_fx_03
+  rotate: false
+  xy: 269, 208
+  size: 148, 105
+  orig: 148, 105
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 59
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+prop_01
+  rotate: false
+  xy: 419, 212
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+prop_02
+  rotate: false
+  xy: 268, 44
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 393, 84
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 268, 62
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 292, 385
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 269, 318
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 426, 121
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 292, 315
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+UNIT_SD_S_ORCA_JESSICA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 205, 85
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 323, 110
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 421, 402
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 275, 59
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 129, 59
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 129, 95
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 433
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 350, 263
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 460, 107
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 87, 7
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 455, 163
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 351, 206
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 251, 177
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 264, 86
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 351, 148
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 129, 2
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 201, 59
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 224, 2
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 347, 59
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 169
+  size: 97, 184
+  orig: 97, 184
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 231, 235
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 309, 19
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 351, 106
+  size: 40, 107
+  orig: 40, 107
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 2, 10
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 101, 234
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 490, 407
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 87, 57
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 497, 148
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 432, 60
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 101, 171
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 261, 351
+  size: 206, 46
+  orig: 206, 46
+  offset: 0, 0
+  index: -1

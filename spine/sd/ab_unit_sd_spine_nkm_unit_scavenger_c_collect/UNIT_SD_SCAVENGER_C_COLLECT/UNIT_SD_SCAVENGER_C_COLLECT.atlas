@@ -1,0 +1,244 @@
+
+UNIT_SD_SCAVENGER_C_COLLECT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 323, 79
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 407, 121
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 332, 21
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 182, 10
+  size: 28, 63
+  orig: 28, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 403, 11
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 38, 2
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 110, 6
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 247, 59
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 433
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 106, 40
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 449, 128
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 407, 85
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 407, 184
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 421, 377
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 225, 135
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 420, 325
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 38, 31
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 319, 137
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 486, 110
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 247, 2
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 420, 278
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 127
+  size: 92, 226
+  orig: 92, 226
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 96, 249
+  size: 144, 104
+  orig: 144, 104
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 2, 2
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 261, 314
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 96, 128
+  size: 127, 119
+  orig: 127, 119
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 392, 292
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 392, 236
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 242, 340
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 429, 39
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 242, 251
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+wapon
+  rotate: false
+  xy: 242, 196
+  size: 139, 53
+  orig: 139, 53
+  offset: 0, 0
+  index: -1

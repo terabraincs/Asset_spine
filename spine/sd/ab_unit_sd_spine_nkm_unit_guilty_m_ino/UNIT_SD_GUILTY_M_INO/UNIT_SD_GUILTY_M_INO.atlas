@@ -1,0 +1,272 @@
+
+UNIT_SD_GUILTY_M_INO.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 431, 38
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 391, 269
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 275, 2
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 212, 2
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 454, 148
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 336, 9
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+coat
+  rotate: true
+  xy: 479, 150
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: false
+  xy: 323, 50
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 441, 293
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 205
+  size: 239, 144
+  orig: 239, 144
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 413, 439
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 11
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 405, 2
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 465, 218
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 241, 28
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 426, 364
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 369, 97
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 350, 44
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 383, 209
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 369, 150
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+guitar
+  rotate: false
+  xy: 264, 348
+  size: 160, 57
+  orig: 160, 57
+  offset: 0, 0
+  index: -1
+guitar_acc
+  rotate: false
+  xy: 498, 474
+  size: 9, 36
+  orig: 9, 36
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 245, 110
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 124, 94
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: true
+  xy: 133, 11
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 243, 269
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 351
+  size: 260, 159
+  orig: 260, 159
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 133, 39
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 93
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 441, 272
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 245, 71
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 264, 407
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 498, 460
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 453, 105
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 413, 407
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 465, 252
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: true
+  xy: 462, 37
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 243, 210
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1

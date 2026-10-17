@@ -1,0 +1,104 @@
+
+UNIT_SD_M_SL_CARGO.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 312
+  size: 385, 197
+  orig: 385, 197
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 348, 32
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 126
+  size: 306, 184
+  orig: 306, 184
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 21
+  size: 165, 103
+  orig: 165, 103
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 444, 210
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 444, 167
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 389, 322
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 348, 6
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 169, 76
+  size: 48, 131
+  orig: 48, 131
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 310, 122
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 444, 129
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+tire_a
+  rotate: false
+  xy: 444, 254
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 169, 2
+  size: 177, 72
+  orig: 177, 72
+  offset: 0, 0
+  index: -1

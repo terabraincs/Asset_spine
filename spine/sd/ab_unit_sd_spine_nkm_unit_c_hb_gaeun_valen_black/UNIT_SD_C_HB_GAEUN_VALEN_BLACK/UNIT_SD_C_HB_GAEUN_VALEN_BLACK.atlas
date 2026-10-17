@@ -1,0 +1,251 @@
+
+UNIT_SD_C_HB_GAEUN_VALEN_BLACK.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 154, 14
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 424, 44
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 429, 133
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 479, 315
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 436, 160
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 359, 36
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+deodumi
+  rotate: false
+  xy: 461, 101
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 189
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 357, 276
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 221, 206
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 413, 101
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 450, 58
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 334, 101
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 340, 229
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 340, 182
+  size: 94, 45
+  orig: 94, 45
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 2, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 424, 284
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 78, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 359, 13
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 435, 236
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 436, 196
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 222, 353
+  size: 187, 157
+  orig: 187, 157
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 2, 322
+  size: 218, 188
+  orig: 218, 188
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 46
+  size: 128, 141
+  orig: 128, 141
+  offset: 0, 0
+  index: -1
+hair_front2
+  rotate: true
+  xy: 132, 66
+  size: 121, 98
+  orig: 121, 98
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 225, 6
+  size: 36, 73
+  orig: 36, 73
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 222, 281
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 232, 97
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 132, 47
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 334, 146
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 411, 377
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 411, 364
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 481, 62
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 232, 44
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 300, 3
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1

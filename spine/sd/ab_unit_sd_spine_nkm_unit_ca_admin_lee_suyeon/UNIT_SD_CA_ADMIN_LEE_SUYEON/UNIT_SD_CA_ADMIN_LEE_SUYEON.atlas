@@ -1,0 +1,258 @@
+
+UNIT_SD_CA_ADMIN_LEE_SUYEON.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WING1
+  rotate: true
+  xy: 221, 414
+  size: 96, 187
+  orig: 96, 187
+  offset: 0, 0
+  index: -1
+WING2
+  rotate: true
+  xy: 221, 325
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 341, 254
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 459, 96
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 457, 199
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 487, 346
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 451, 135
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 287, 2
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+coat
+  rotate: true
+  xy: 344, 127
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: true
+  xy: 137, 26
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 397, 271
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 379
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 410, 336
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 212, 13
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 370, 19
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 418, 21
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 370, 51
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 414, 52
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 359, 338
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 406, 127
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 344, 178
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 462, 261
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 85, 229
+  size: 119, 148
+  orig: 119, 148
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 85, 118
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: false
+  xy: 401, 201
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 206, 253
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 410, 403
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: true
+  xy: 287, 39
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 348, 12
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 334, 31
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 19
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 359, 325
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 485, 222
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+shild
+  rotate: false
+  xy: 209, 132
+  size: 80, 119
+  orig: 80, 119
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 291, 126
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 115
+  size: 81, 262
+  orig: 81, 262
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+UNIT_SD_C_DELTA_KYLE_AP_HALLOWEEN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 327, 162
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 224, 162
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 436, 2
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 460, 2
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 229, 2
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 143, 204
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+body_top
+  rotate: false
+  xy: 224, 73
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 311, 95
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 374
+  size: 226, 136
+  orig: 226, 136
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 64, 2
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 64, 71
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 453, 109
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 463, 65
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 407, 156
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 359, 2
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 144, 23
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 229, 25
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 314, 47
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 386, 63
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 294, 2
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 378, 106
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 452, 187
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 371, 417
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 195
+  size: 139, 177
+  orig: 139, 177
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: true
+  xy: 335, 241
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 363, 361
+  size: 26, 121
+  orig: 26, 121
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 371, 389
+  size: 26, 122
+  orig: 26, 122
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 143, 234
+  size: 138, 73
+  orig: 138, 73
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 218, 249
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 492, 164
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 438, 262
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 230, 413
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 438, 248
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 452, 158
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 230, 357
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 21
+  size: 172, 60
+  orig: 172, 60
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 142, 72
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+UNIT_SD_M_TIDE_VEHICLE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 158
+  size: 281, 166
+  orig: 281, 166
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 119, 68
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 326
+  size: 306, 184
+  orig: 306, 184
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 359, 9
+  size: 165, 103
+  orig: 165, 103
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 464, 110
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 464, 51
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 191, 37
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 52, 57
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 52, 2
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 310, 277
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 464, 25
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 2, 25
+  size: 48, 131
+  orig: 48, 131
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 310, 378
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 359, 187
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 153, 14
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+tire_a
+  rotate: false
+  xy: 310, 205
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tire_b
+  rotate: false
+  xy: 209, 86
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 285, 18
+  size: 177, 72
+  orig: 177, 72
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 382, 176
+  size: 124, 99
+  orig: 124, 99
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 285, 197
+  size: 127, 23
+  orig: 127, 23
+  offset: 0, 0
+  index: -1

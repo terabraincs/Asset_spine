@@ -1,0 +1,230 @@
+
+UNIT_SD_GUILTY_S_MILLIA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc
+  rotate: true
+  xy: 347, 146
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 354, 80
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 385, 380
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 399, 18
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 206, 18
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 458, 258
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 2, 7
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 428, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 367
+  size: 235, 142
+  orig: 235, 142
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 386, 237
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 218, 140
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 96, 162
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 464, 332
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 333, 231
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 439, 72
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 431, 152
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 385, 320
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 319, 25
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 96, 2
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 196
+  size: 145, 169
+  orig: 145, 169
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 239, 395
+  size: 168, 114
+  orig: 168, 114
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 149, 162
+  size: 67, 203
+  orig: 67, 203
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 218, 221
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 239, 317
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 39
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 96, 52
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 218, 343
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 216, 43
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 409, 365
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 68, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 176, 10
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 216, 82
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1

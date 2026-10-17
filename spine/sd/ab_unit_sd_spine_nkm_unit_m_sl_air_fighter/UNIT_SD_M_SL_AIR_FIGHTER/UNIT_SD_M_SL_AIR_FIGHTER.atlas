@@ -1,0 +1,132 @@
+
+UNIT_SD_M_SL_AIR_FIGHTER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 345
+  size: 333, 164
+  orig: 333, 164
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 390, 263
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 156
+  size: 310, 187
+  orig: 310, 187
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 337, 405
+  size: 167, 104
+  orig: 167, 104
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 283, 9
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 350, 11
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 194, 23
+  size: 29, 87
+  orig: 29, 87
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 390, 161
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 386, 59
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 194, 54
+  size: 190, 100
+  orig: 190, 100
+  offset: 0, 0
+  index: -1
+prop_01
+  rotate: true
+  xy: 458, 187
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+prop_02
+  rotate: true
+  xy: 442, 85
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 472, 378
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 337, 355
+  size: 48, 133
+  orig: 48, 133
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 20
+  size: 190, 134
+  orig: 190, 134
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 410, 4
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 314, 164
+  size: 179, 74
+  orig: 179, 74
+  offset: 0, 0
+  index: -1

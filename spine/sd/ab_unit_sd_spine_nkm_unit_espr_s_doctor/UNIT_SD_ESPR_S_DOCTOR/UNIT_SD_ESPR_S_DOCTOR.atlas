@@ -1,0 +1,223 @@
+
+UNIT_SD_ESPR_S_DOCTOR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_cape
+  rotate: true
+  xy: 162, 112
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+back_hood
+  rotate: false
+  xy: 169, 221
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 273, 73
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 405, 28
+  size: 28, 69
+  orig: 28, 69
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 417, 103
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 478, 213
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 358, 99
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 273, 138
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 292
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 405, 371
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 448, 120
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 435, 53
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+front_cape
+  rotate: false
+  xy: 421, 176
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+front_hood
+  rotate: false
+  xy: 261, 364
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+front_hood_ac
+  rotate: false
+  xy: 161, 53
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 2, 5
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 273, 16
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 358, 14
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 31
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 229
+  size: 165, 124
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 76, 15
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 493, 464
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 256, 94
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 405, 2
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 161, 11
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 116
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 478, 198
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 435, 21
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 299, 214
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 362, 174
+  size: 188, 57
+  orig: 188, 57
+  offset: 0, 0
+  index: -1

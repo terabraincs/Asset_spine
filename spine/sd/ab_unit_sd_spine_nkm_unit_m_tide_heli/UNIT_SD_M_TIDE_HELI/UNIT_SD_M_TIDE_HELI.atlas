@@ -1,0 +1,167 @@
+
+UNIT_SD_M_TIDE_HELI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom1
+  rotate: false
+  xy: 2, 337
+  size: 380, 173
+  orig: 380, 173
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 377, 248
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 47
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 220, 60
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 178, 150
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 382, 10
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 462, 275
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 178, 67
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 377, 66
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 225, 8
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 225, 159
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 486, 246
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 178, 212
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 384, 333
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 64, 8
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 422, 15
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+tail_wing1
+  rotate: true
+  xy: 2, 2
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+top1
+  rotate: true
+  xy: 320, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+top2
+  rotate: true
+  xy: 440, 136
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+top3
+  rotate: true
+  xy: 2, 25
+  size: 20, 221
+  orig: 20, 221
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 320, 161
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 320, 231
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 462, 242
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1

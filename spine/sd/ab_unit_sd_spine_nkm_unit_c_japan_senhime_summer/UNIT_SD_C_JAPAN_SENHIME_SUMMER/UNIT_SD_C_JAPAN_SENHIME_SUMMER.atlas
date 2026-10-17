@@ -1,0 +1,265 @@
+
+UNIT_SD_C_JAPAN_SENHIME_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 280, 125
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+body_back_1
+  rotate: false
+  xy: 436, 130
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+body_back_2
+  rotate: false
+  xy: 239, 8
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+body_front2
+  rotate: false
+  xy: 393, 131
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+body_front_1
+  rotate: false
+  xy: 455, 44
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 401, 66
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 429, 64
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 372, 61
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 337, 55
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 418, 200
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 358
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 249, 49
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 376, 393
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 476, 146
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 455, 82
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+earring
+  rotate: true
+  xy: 484, 296
+  size: 95, 26
+  orig: 95, 26
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 340, 129
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 243, 214
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 252, 304
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 420, 274
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 358, 214
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 337, 299
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 94, 75
+  size: 55, 153
+  orig: 55, 153
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 252, 363
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 296, 214
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 327, 214
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: false
+  xy: 156, 214
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 126, 132
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 133
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 490, 121
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 376, 352
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 249
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 126, 234
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 464, 479
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 94, 14
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 3
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 252, 478
+  size: 210, 30
+  orig: 210, 30
+  offset: 0, 0
+  index: -1

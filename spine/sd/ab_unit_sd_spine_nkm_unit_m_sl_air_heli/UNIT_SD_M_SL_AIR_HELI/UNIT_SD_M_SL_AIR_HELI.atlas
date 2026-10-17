@@ -1,0 +1,132 @@
+
+UNIT_SD_M_SL_AIR_HELI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: true
+  xy: 249, 242
+  size: 266, 147
+  orig: 266, 147
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 306, 55
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 153, 39
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 111
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 248, 158
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 438, 241
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 364, 50
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 2, 5
+  size: 23, 68
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 438, 277
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 225, 54
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 30
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 491, 252
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 398, 251
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 398, 358
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 72, 15
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 381, 199
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 248, 98
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 2, 260
+  size: 245, 248
+  orig: 245, 248
+  offset: 0, 0
+  index: -1

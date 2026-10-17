@@ -1,0 +1,146 @@
+
+UNIT_SD_M_FUTURE_HARPY.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 383
+  size: 467, 127
+  orig: 467, 127
+  offset: 0, 0
+  index: -1
+body_ac_1
+  rotate: true
+  xy: 435, 259
+  size: 122, 47
+  orig: 122, 47
+  offset: 0, 0
+  index: -1
+body_ac_2
+  rotate: false
+  xy: 234, 110
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 167, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 221
+  size: 266, 160
+  orig: 266, 160
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 246, 19
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 426, 201
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 437, 149
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 471, 436
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 379, 113
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 186, 81
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 9
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 471, 413
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 270, 266
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 167, 81
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 465, 226
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 270, 201
+  size: 154, 63
+  orig: 154, 63
+  offset: 0, 0
+  index: -1
+wing_a
+  rotate: false
+  xy: 2, 97
+  size: 182, 70
+  orig: 182, 70
+  offset: 0, 0
+  index: -1
+wing_b
+  rotate: false
+  xy: 2, 169
+  size: 230, 50
+  orig: 230, 50
+  offset: 0, 0
+  index: -1
+wing_c
+  rotate: false
+  xy: 391, 16
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1

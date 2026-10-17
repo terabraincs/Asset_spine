@@ -1,0 +1,300 @@
+
+UNIT_SD_FENRIR_CA_HILDE_PR_GAUNTLET.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 218, 12
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 457, 10
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 471, 83
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 385, 10
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 385, 43
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 218, 66
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 433
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 130, 55
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 440, 197
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 449, 152
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 329, 168
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 447, 345
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 218, 142
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 294, 74
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 384, 76
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 95, 2
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 199
+  size: 128, 154
+  orig: 128, 154
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 217, 250
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+hair_front_parts_1
+  rotate: false
+  xy: 2, 3
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+hair_front_parts_2
+  rotate: false
+  xy: 189, 34
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 345, 223
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 478, 188
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 132, 196
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 79
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 95, 63
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 423, 175
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 495, 327
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 421, 399
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 95, 55
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 217, 345
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 499, 183
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+rabbit_ear_1
+  rotate: true
+  xy: 310, 136
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+rabbit_ear_2
+  rotate: true
+  xy: 294, 25
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 421, 411
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 217, 208
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 497, 137
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 403, 136
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 345, 282
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: true
+  xy: 261, 345
+  size: 52, 184
+  orig: 52, 184
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: true
+  xy: 345, 253
+  size: 27, 131
+  orig: 27, 131
+  offset: 0, 0
+  index: -1

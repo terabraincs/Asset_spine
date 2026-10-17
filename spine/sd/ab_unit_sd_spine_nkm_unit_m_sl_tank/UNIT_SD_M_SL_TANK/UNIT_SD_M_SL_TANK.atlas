@@ -1,0 +1,118 @@
+
+UNIT_SD_M_SL_TANK.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 328
+  size: 378, 180
+  orig: 378, 180
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 180, 67
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 152
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 292, 171
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 127, 15
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 189, 27
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 461, 212
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 292, 108
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 387, 111
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 57
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 265, 123
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 10
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 382, 331
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 461, 195
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 461, 295
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 391, 163
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1

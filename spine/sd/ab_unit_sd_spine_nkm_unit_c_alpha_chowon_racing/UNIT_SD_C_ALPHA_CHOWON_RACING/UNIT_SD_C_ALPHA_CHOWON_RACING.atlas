@@ -1,0 +1,272 @@
+
+UNIT_SD_C_ALPHA_CHOWON_RACING.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 391, 129
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 387, 329
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 206, 2
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 256, 38
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 447, 22
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 463, 133
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+body_top
+  rotate: true
+  xy: 462, 200
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 391, 185
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 366
+  size: 239, 144
+  orig: 239, 144
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 390, 256
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 259, 231
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 186, 76
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 256, 4
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 186, 111
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 352, 44
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 266, 115
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 399, 45
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 266, 169
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 266, 63
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 231, 7
+  size: 23, 67
+  orig: 23, 67
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 447, 50
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 76, 2
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 475, 247
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 155, 2
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 186
+  size: 106, 178
+  orig: 106, 178
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 259, 313
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 236, 112
+  size: 28, 104
+  orig: 28, 104
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 180, 218
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 135, 72
+  size: 122, 49
+  orig: 122, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 392, 401
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 320, 42
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 352, 126
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 243, 407
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 243, 393
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 399, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 76, 46
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 110, 196
+  size: 168, 68
+  orig: 168, 68
+  offset: 0, 0
+  index: -1
+weapon_00
+  rotate: true
+  xy: 2, 20
+  size: 164, 72
+  orig: 164, 72
+  offset: 0, 0
+  index: -1

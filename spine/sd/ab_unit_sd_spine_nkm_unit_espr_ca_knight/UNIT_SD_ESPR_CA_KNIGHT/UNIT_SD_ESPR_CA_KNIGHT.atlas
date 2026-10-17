@@ -1,0 +1,251 @@
+
+UNIT_SD_ESPR_CA_KNIGHT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ASD
+  rotate: false
+  xy: 478, 379
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+back-cloth
+  rotate: false
+  xy: 321, 274
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 248, 210
+  size: 71, 116
+  orig: 71, 116
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 478, 428
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 447, 75
+  size: 31, 86
+  orig: 31, 86
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 324, 52
+  size: 41, 107
+  orig: 41, 107
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 320, 12
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 480, 64
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 328
+  size: 301, 182
+  orig: 301, 182
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 66
+  size: 163, 101
+  orig: 163, 101
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 197, 10
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 262, 12
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+doll
+  rotate: true
+  xy: 133, 2
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 431, 263
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 321, 218
+  size: 107, 54
+  orig: 107, 54
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 248, 152
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 442, 163
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 261, 54
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 324, 95
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 2, 169
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 167, 53
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 305, 364
+  size: 171, 146
+  orig: 171, 146
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 480, 122
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 429, 95
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 433, 54
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 133, 52
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 471, 58
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 430, 251
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 2, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 480, 92
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 17
+  size: 47, 129
+  orig: 47, 129
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 348, 151
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 453, 57
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 404, 15
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 175, 152
+  size: 174, 71
+  orig: 174, 71
+  offset: 0, 0
+  index: -1

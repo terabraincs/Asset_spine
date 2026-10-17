@@ -1,0 +1,174 @@
+
+UNIT_SD_S_STATE_AIRBORNE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 292, 280
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 365, 209
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 393, 229
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 85, 14
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+body_right_arm_top
+  rotate: true
+  xy: 160, 18
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 393, 198
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 393, 267
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 336
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 277, 179
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 178, 179
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 470, 385
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 361, 123
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 2, 16
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 298, 84
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 251, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 292, 352
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 171
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 298, 59
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 251, 54
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 45
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 470, 368
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 361, 87
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 181, 11
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 292, 447
+  size: 218, 63
+  orig: 218, 63
+  offset: 0, 0
+  index: -1

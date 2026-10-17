@@ -1,0 +1,335 @@
+
+UNIT_SD_ROOT_CA_HUNTRESS.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left_Arm
+  rotate: true
+  xy: 344, 52
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+Left_Leg
+  rotate: true
+  xy: 352, 85
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+Right_Arm
+  rotate: false
+  xy: 429, 346
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+Right_Leg
+  rotate: true
+  xy: 352, 111
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 144, 116
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+body_parts_1
+  rotate: false
+  xy: 359, 147
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+body_parts_2
+  rotate: false
+  xy: 225, 6
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+body_parts_3
+  rotate: true
+  xy: 1, 1
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+body_parts_4
+  rotate: true
+  xy: 464, 100
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+body_parts_5
+  rotate: false
+  xy: 497, 83
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+cape_2
+  rotate: true
+  xy: 406, 419
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+cape_3
+  rotate: true
+  xy: 461, 258
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 429, 322
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 1, 348
+  size: 270, 163
+  orig: 270, 163
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 1, 14
+  size: 146, 91
+  orig: 146, 91
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 458, 157
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 427, 91
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 461, 323
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 261, 107
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 261, 155
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 359, 211
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 263, 205
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 204, 115
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 148, 1
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 256, 49
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 148, 28
+  size: 87, 47
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 155, 206
+  size: 141, 107
+  orig: 141, 107
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 411, 46
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1, 217
+  size: 153, 130
+  orig: 153, 130
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1, 106
+  size: 142, 110
+  orig: 142, 110
+  offset: 0, 0
+  index: -1
+hair_string
+  rotate: false
+  xy: 436, 143
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 256, 4
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 272, 387
+  size: 133, 124
+  orig: 133, 124
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 496, 179
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 497, 130
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 464, 83
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 26, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 450, 258
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 454, 81
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 225, 1
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 406, 393
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 450, 215
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 196, 31
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 482, 85
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 464, 110
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 272, 322
+  size: 156, 64
+  orig: 156, 64
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 263, 272
+  size: 197, 49
+  orig: 197, 49
+  offset: 0, 0
+  index: -1

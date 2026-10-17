@@ -1,0 +1,251 @@
+
+UNIT_SD_REAPER_M_CYBORG.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_hair
+  rotate: true
+  xy: 165, 236
+  size: 90, 195
+  orig: 90, 195
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 167, 77
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 449, 94
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 482, 133
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 411, 2
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 409, 90
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 482, 79
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 328
+  size: 301, 182
+  orig: 301, 182
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 63
+  size: 163, 101
+  orig: 163, 101
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 305, 328
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 104, 21
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 2, 166
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 370, 307
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 362, 174
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 167, 11
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 2, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 273, 66
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 362, 238
+  size: 103, 67
+  orig: 103, 67
+  offset: 0, 0
+  index: -1
+hair_acc
+  rotate: false
+  xy: 455, 405
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 268, 15
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 305, 371
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 343, 195
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 455, 387
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 473, 313
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 455, 373
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 104, 12
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 467, 201
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 473, 307
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 482, 107
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 362, 2
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 342, 69
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 343, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 473, 334
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: false
+  xy: 467, 213
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 167, 163
+  size: 174, 71
+  orig: 174, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+UNIT_SD_REPLACER_C_BISHOP_GAUNTLET.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_hair
+  rotate: true
+  xy: 261, 397
+  size: 113, 193
+  orig: 113, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 248, 158
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 272, 7
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 122, 13
+  size: 62, 135
+  orig: 62, 135
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 456, 105
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 253, 280
+  size: 52, 144
+  orig: 52, 144
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 337, 167
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+clothes_01
+  rotate: false
+  xy: 411, 214
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+clothes_02
+  rotate: false
+  xy: 456, 408
+  size: 49, 102
+  orig: 49, 102
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 456, 81
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 107, 150
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 456, 167
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 462, 285
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 411, 310
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 350, 77
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 353, 19
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 462, 321
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 401, 92
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 186, 2
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 107, 238
+  size: 144, 115
+  orig: 144, 115
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: true
+  xy: 186, 57
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 269, 73
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 19
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+neck_ac1
+  rotate: true
+  xy: 373, 175
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 411, 198
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 401, 77
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 2, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 399, 319
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 253, 340
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 446, 285
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 272, 2
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 490, 141
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 253, 238
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 446, 204
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 446, 295
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 440, 31
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: false
+  xy: 2, 147
+  size: 103, 206
+  orig: 103, 206
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 261, 334
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+UNIT_SD_M_FOX_ANTIAIR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_ac
+  rotate: false
+  xy: 2, 423
+  size: 358, 82
+  orig: 358, 82
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 256, 179
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 261
+  size: 266, 160
+  orig: 266, 160
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 362, 416
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 328, 113
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 472, 288
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 472, 340
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 335, 200
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 335, 152
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 270, 258
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 127
+  size: 219, 132
+  orig: 219, 132
+  offset: 0, 0
+  index: -1
+rader
+  rotate: false
+  xy: 256, 108
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 386, 129
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 167, 11
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 10
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 472, 225
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 472, 241
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 358, 260
+  size: 154, 63
+  orig: 154, 63
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 223, 132
+  size: 127, 31
+  orig: 127, 31
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: true
+  xy: 423, 136
+  size: 278, 47
+  orig: 278, 47
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 210, 25
+  size: 274, 39
+  orig: 274, 39
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: false
+  xy: 210, 66
+  size: 279, 40
+  orig: 279, 40
+  offset: 0, 0
+  index: -1

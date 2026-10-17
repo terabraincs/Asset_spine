@@ -1,0 +1,244 @@
+
+UNIT_SD_C_FALLEN_ROSARIA_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 400, 185
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 317, 70
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 486, 314
+  size: 24, 62
+  orig: 24, 62
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 484, 444
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 484, 378
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 396, 67
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 312, 135
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 360
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 400, 238
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 400, 376
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 429, 82
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 396, 19
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 164, 104
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 399, 324
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 228, 74
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 384, 135
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 164, 15
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 313, 14
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 228, 15
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 467, 143
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 176
+  size: 153, 182
+  orig: 153, 182
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 228, 132
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: false
+  xy: 157, 194
+  size: 67, 164
+  orig: 67, 164
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 226, 207
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 248, 321
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 62
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 226, 335
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 124, 69
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 248, 402
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 341, 214
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 430, 39
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 2
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 475, 246
+  size: 9, 76
+  orig: 9, 76
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 341, 229
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1

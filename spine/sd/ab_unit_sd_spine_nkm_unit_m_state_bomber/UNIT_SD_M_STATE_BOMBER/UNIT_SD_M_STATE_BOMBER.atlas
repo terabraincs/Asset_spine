@@ -1,0 +1,167 @@
+
+UNIT_SD_M_STATE_BOMBER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 249
+  size: 353, 74
+  orig: 353, 74
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: true
+  xy: 489, 268
+  size: 140, 21
+  orig: 140, 21
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 359, 162
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 325
+  size: 306, 184
+  orig: 306, 184
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 192, 144
+  size: 165, 103
+  orig: 165, 103
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 320, 5
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 386, 18
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+engine
+  rotate: false
+  xy: 357, 252
+  size: 122, 37
+  orig: 122, 37
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 481, 180
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 378, 61
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 445, 61
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 310, 410
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 2, 2
+  size: 79, 21
+  orig: 79, 21
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 449, 226
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 115
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 359, 144
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 445, 23
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 310, 336
+  size: 177, 72
+  orig: 177, 72
+  offset: 0, 0
+  index: -1
+wing_b
+  rotate: false
+  xy: 2, 25
+  size: 226, 88
+  orig: 226, 88
+  offset: 0, 0
+  index: -1
+wing_b2
+  rotate: false
+  xy: 357, 291
+  size: 124, 43
+  orig: 124, 43
+  offset: 0, 0
+  index: -1
+wing_c
+  rotate: false
+  xy: 230, 49
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+wing_d
+  rotate: false
+  xy: 230, 9
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+wing_d2
+  rotate: false
+  xy: 192, 121
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1

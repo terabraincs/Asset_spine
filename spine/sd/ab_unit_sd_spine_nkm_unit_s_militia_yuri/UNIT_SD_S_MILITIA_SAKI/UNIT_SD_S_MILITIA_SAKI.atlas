@@ -1,0 +1,223 @@
+
+UNIT_SD_S_MILITIA_SAKI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 368, 224
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 209, 2
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 430, 125
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 368, 196
+  size: 26, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 419, 341
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 267, 117
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 352
+  size: 261, 158
+  orig: 261, 158
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 276, 245
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 276, 325
+  size: 141, 88
+  orig: 141, 88
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 459, 149
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 459, 112
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 116, 3
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 276, 195
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 267, 65
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 237, 8
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 437, 206
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 372, 107
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 345, 120
+  size: 25, 73
+  orig: 25, 73
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 360, 50
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 330, 3
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 265, 415
+  size: 95, 185
+  orig: 95, 185
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 215
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 117, 53
+  size: 160, 84
+  orig: 160, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 154, 221
+  size: 129, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 446, 89
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 10
+  size: 41, 112
+  orig: 41, 112
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 2, 53
+  size: 160, 113
+  orig: 160, 113
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 419, 325
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 416, 4
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 203, 68
+  size: 151, 62
+  orig: 151, 62
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 452, 300
+  size: 210, 58
+  orig: 210, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+UNIT_SD_GUILTY_C_RAMLETHAL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_hair
+  rotate: false
+  xy: 2, 124
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+belt_01
+  rotate: false
+  xy: 229, 2
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 435, 171
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 67, 2
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 487, 197
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 2, 2
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 445, 62
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+cape_01
+  rotate: false
+  xy: 428, 246
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+cape_02
+  rotate: false
+  xy: 229, 57
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+cape_03
+  rotate: true
+  xy: 137, 25
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 370, 161
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 258
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 293, 159
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 309, 226
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 445, 30
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 402, 51
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 272, 77
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 313, 39
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 360, 80
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 402, 82
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 313, 80
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 445, 92
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 221, 273
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 297, 5
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 217, 156
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 145, 123
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 309, 402
+  size: 137, 108
+  orig: 137, 108
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 309, 301
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 493, 40
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 417, 349
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 28
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 417, 389
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 272, 50
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 448, 385
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 391
+  size: 305, 119
+  orig: 305, 119
+  offset: 0, 0
+  index: -1
+weapon_l_acc_01
+  rotate: true
+  xy: 424, 4
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+weapon_l_acc_02
+  rotate: false
+  xy: 356, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+weapon_l_acc_03
+  rotate: true
+  xy: 487, 171
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+weapon_r_acc_01
+  rotate: true
+  xy: 451, 4
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+weapon_r_acc_02
+  rotate: false
+  xy: 390, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+weapon_r_acc_03
+  rotate: true
+  xy: 489, 145
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

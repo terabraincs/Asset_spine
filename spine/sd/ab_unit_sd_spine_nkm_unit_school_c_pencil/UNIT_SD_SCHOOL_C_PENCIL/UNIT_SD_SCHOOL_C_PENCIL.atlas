@@ -1,0 +1,244 @@
+
+UNIT_SD_SCHOOL_C_PENCIL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 347, 245
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 249, 236
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 315, 20
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 246, 3
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 469, 151
+  size: 28, 70
+  orig: 28, 70
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 435, 150
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+body_top_1
+  rotate: true
+  xy: 427, 315
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+body_top_2
+  rotate: true
+  xy: 213, 2
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 312, 49
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+deodumi_left
+  rotate: false
+  xy: 491, 480
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+deodumi_right
+  rotate: true
+  xy: 216, 128
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 352
+  size: 261, 158
+  orig: 261, 158
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 124, 60
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 118, 140
+  size: 141, 88
+  orig: 141, 88
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 246, 29
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 390, 19
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 216, 67
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 437, 223
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 371, 149
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 124, 7
+  size: 87, 51
+  orig: 87, 51
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 449, 62
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 390, 56
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 2, 2
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+hair_left_back
+  rotate: false
+  xy: 2, 139
+  size: 62, 211
+  orig: 62, 211
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 66, 139
+  size: 50, 211
+  orig: 50, 211
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 265, 311
+  size: 160, 84
+  orig: 160, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 118, 230
+  size: 129, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 81, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 81, 25
+  size: 41, 112
+  orig: 41, 112
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 265, 397
+  size: 160, 113
+  orig: 160, 113
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 249, 336
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 449, 29
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 427, 359
+  size: 151, 62
+  orig: 151, 62
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 261, 127
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1

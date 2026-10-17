@@ -1,0 +1,181 @@
+
+UNIT_SD_C_KIM_CHEOLSU_RA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 171, 48
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 367, 87
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 367, 51
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 275, 18
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 273, 151
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: false
+  xy: 273, 197
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+coat_left_ac
+  rotate: false
+  xy: 137, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+coat_right
+  rotate: true
+  xy: 388, 128
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 275, 59
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 318
+  size: 310, 187
+  orig: 310, 187
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 388, 201
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 53
+  size: 167, 104
+  orig: 167, 104
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 365, 6
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 452, 85
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 171, 126
+  size: 190, 100
+  orig: 190, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 159
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 359, 155
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 482, 144
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 273, 296
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 226, 21
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 3
+  size: 48, 133
+  orig: 48, 133
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 314, 371
+  size: 190, 134
+  orig: 190, 134
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 257, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 171, 10
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 314, 295
+  size: 179, 74
+  orig: 179, 74
+  offset: 0, 0
+  index: -1

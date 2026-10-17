@@ -1,0 +1,279 @@
+
+UNIT_SD_CLB_003_6_ASSR_B.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 290, 259
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 488, 29
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 101
+  size: 158, 190
+  orig: 158, 190
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 290, 173
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 245, 294
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 440, 369
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+face_a_01
+  rotate: false
+  xy: 275, 36
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+face_a_02
+  rotate: false
+  xy: 368, 46
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+face_b_02
+  rotate: false
+  xy: 368, 21
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+face_c_01
+  rotate: false
+  xy: 428, 99
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+face_c_02
+  rotate: false
+  xy: 162, 105
+  size: 119, 28
+  orig: 119, 28
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 245, 362
+  size: 193, 148
+  orig: 193, 148
+  offset: 0, 0
+  index: -1
+hair_2a
+  rotate: false
+  xy: 428, 192
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 418, 313
+  size: 47, 92
+  orig: 47, 92
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 293
+  size: 241, 217
+  orig: 241, 217
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 222, 6
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 162, 135
+  size: 156, 126
+  orig: 156, 126
+  offset: 0, 0
+  index: -1
+head_ear
+  rotate: false
+  xy: 440, 413
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+horn_3
+  rotate: false
+  xy: 2, 9
+  size: 148, 90
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+l_amr
+  rotate: true
+  xy: 283, 96
+  size: 28, 77
+  orig: 28, 77
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 333, 30
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+microphone_stand_04
+  rotate: false
+  xy: 362, 107
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 417, 30
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 275, 18
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 485, 103
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 275, 3
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 503, 295
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 333, 18
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 2, 3
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+r_amr
+  rotate: true
+  xy: 418, 281
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 428, 156
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 485, 125
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 401, 104
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 152, 2
+  size: 97, 68
+  orig: 97, 68
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 491, 263
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 459, 29
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 290, 126
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 411, 49
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 457, 49
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1

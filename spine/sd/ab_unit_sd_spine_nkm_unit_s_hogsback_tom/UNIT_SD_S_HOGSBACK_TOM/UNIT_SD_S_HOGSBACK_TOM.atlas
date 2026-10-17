@@ -1,0 +1,153 @@
+
+UNIT_SD_S_HOGSBACK_TOM.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 398, 78
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 133, 62
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 133, 29
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 212, 67
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 455, 201
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 90, 7
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 2, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 331
+  size: 297, 179
+  orig: 297, 179
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 293, 92
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 293, 182
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 292, 49
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 356, 34
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 109, 103
+  size: 182, 96
+  orig: 182, 96
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 301, 356
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 475, 306
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 464, 383
+  size: 46, 127
+  orig: 46, 127
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 109, 201
+  size: 182, 128
+  orig: 182, 128
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 455, 184
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 475, 331
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 301, 284
+  size: 172, 70
+  orig: 172, 70
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 90
+  size: 105, 239
+  orig: 105, 239
+  offset: 0, 0
+  index: -1

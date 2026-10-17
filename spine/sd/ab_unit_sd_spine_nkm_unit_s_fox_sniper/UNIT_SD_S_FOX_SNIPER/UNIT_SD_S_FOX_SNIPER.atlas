@@ -1,0 +1,195 @@
+
+UNIT_SD_S_FOX_SNIPER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_cape
+  rotate: true
+  xy: 346, 91
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+back_hood
+  rotate: false
+  xy: 231, 187
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 484, 182
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 442, 76
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 442, 112
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 344, 6
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 270, 25
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 360
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 270, 99
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 406, 376
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 447, 40
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 447, 5
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 353, 186
+  size: 133, 118
+  orig: 133, 118
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 73, 62
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+front_hood
+  rotate: false
+  xy: 73, 184
+  size: 156, 174
+  orig: 156, 174
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 473, 250
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 406, 321
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 344, 46
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 252, 321
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 184, 40
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 76, 21
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 252, 403
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 231, 345
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 416, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 209, 39
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 80
+  size: 278, 69
+  orig: 278, 69
+  offset: 0, 0
+  index: -1

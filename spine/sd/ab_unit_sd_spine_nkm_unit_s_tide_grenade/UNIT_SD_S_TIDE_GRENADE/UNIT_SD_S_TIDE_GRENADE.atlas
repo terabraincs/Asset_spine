@@ -1,0 +1,188 @@
+
+UNIT_SD_S_TIDE_GRENADE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 286, 222
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 433, 164
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 433, 131
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: true
+  xy: 469, 82
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 400, 216
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 389, 137
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 384, 45
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 336
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 283, 42
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 184, 57
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 184, 15
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 246, 2
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 89, 3
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 445, 197
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 460, 292
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 89, 32
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 292, 371
+  size: 156, 139
+  orig: 156, 139
+  offset: 0, 0
+  index: -1
+head_light
+  rotate: false
+  xy: 286, 130
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+head_light2
+  rotate: true
+  xy: 181, 214
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 469, 57
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 450, 387
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 210
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 353, 25
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 302, 6
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 292, 301
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 2
+  size: 206, 85
+  orig: 206, 85
+  offset: 0, 0
+  index: -1

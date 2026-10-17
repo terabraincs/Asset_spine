@@ -1,0 +1,293 @@
+
+UNIT_SD_C_ADMIN_ARTILLERY_1BIRTHDAY.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 338, 104
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+body_coat_1
+  rotate: true
+  xy: 464, 402
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+body_coat_2
+  rotate: false
+  xy: 347, 54
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 419, 84
+  size: 21, 57
+  orig: 21, 57
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 419, 62
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 419, 42
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 450, 373
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: false
+  xy: 433, 341
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 432, 215
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 199
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 137, 29
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 221, 227
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 480, 59
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 380, 118
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 386, 221
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 340, 227
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 426, 107
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 341, 153
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 426, 158
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 87, 28
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 396, 55
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 464, 440
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 386, 149
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 222, 374
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+hair_back_ac
+  rotate: false
+  xy: 357, 304
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+hair_back_tail
+  rotate: true
+  xy: 220, 97
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 137, 96
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+hair_left_aide
+  rotate: true
+  xy: 137, 2
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+hair_right_aide
+  rotate: true
+  xy: 221, 169
+  size: 56, 118
+  orig: 56, 118
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 222, 302
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 355, 410
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 87, 9
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 355, 374
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 103
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 397, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 397, 15
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 220, 44
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+wapon_1
+  rotate: true
+  xy: 433, 280
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+wapon_2
+  rotate: false
+  xy: 214, 4
+  size: 181, 38
+  orig: 181, 38
+  offset: 0, 0
+  index: -1
+wapon_3
+  rotate: false
+  xy: 2, 332
+  size: 218, 178
+  orig: 218, 178
+  offset: 0, 0
+  index: -1

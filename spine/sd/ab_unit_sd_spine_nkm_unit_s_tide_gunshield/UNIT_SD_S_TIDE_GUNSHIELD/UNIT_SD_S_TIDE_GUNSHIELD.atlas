@@ -1,0 +1,160 @@
+
+UNIT_SD_S_TIDE_GUNSHIELD.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 370, 113
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 42, 20
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 478, 429
+  size: 31, 81
+  orig: 31, 81
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 142, 20
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 2, 4
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 142, 49
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 241, 4
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 334
+  size: 292, 176
+  orig: 292, 176
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 409, 199
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 81, 87
+  size: 158, 98
+  orig: 158, 98
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 327, 27
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 238, 293
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 296, 288
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 81, 187
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+head_light
+  rotate: false
+  xy: 241, 90
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 327, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 370, 65
+  size: 46, 125
+  orig: 46, 125
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 296, 384
+  size: 180, 126
+  orig: 180, 126
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 370, 200
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 369, 29
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 238, 217
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 90
+  size: 77, 242
+  orig: 77, 242
+  offset: 0, 0
+  index: -1

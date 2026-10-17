@@ -1,0 +1,244 @@
+
+UNIT_SD_C_VATICAN_CLOUDIA_ALWAYS.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 421, 434
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 467, 44
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 205, 2
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 140, 13
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 220, 79
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 442, 240
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 368
+  size: 235, 142
+  orig: 235, 142
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 412, 310
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 220, 110
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 298, 11
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 349, 11
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 213, 26
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 432, 382
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 298, 45
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 432, 190
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 442, 105
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 383, 44
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 174
+  size: 161, 192
+  orig: 161, 192
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 339, 139
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 385, 293
+  size: 25, 132
+  orig: 25, 132
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 301, 104
+  size: 36, 133
+  orig: 36, 133
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 239, 349
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 239, 427
+  size: 180, 83
+  orig: 180, 83
+  offset: 0, 0
+  index: -1
+hat_tail
+  rotate: false
+  xy: 385, 254
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 220, 239
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 267, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 339, 100
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 71
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 220, 354
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 412, 268
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 13
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 148, 40
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 165, 93
+  size: 53, 273
+  orig: 53, 273
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 338, 250
+  size: 97, 45
+  orig: 97, 45
+  offset: 0, 0
+  index: -1

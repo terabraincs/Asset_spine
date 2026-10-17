@@ -1,0 +1,223 @@
+
+UNIT_SD_C_HB_BOMI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 253, 180
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 418, 292
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 359, 2
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 206, 28
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 360, 76
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 443, 210
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 369, 170
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 360
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 272, 104
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 421, 376
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 443, 174
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 393, 28
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 109, 2
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 272, 52
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 170, 55
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 222, 55
+  size: 94, 48
+  orig: 94, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 418, 244
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 360, 118
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 206, 2
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 171, 151
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 277, 7
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 252, 381
+  size: 167, 129
+  orig: 167, 129
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 200
+  size: 167, 158
+  orig: 167, 158
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 171, 206
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 253, 265
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 2, 4
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 377, 273
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 497, 195
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 444, 130
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 109, 55
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 26
+  size: 172, 105
+  orig: 172, 105
+  offset: 0, 0
+  index: -1

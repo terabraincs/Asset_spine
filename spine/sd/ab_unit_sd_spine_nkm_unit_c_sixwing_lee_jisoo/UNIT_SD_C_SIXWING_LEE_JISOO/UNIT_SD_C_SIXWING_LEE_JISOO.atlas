@@ -1,0 +1,223 @@
+
+UNIT_SD_C_SIXWING_LEE_JISOO.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 435, 227
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 435, 199
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 450, 78
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 423, 76
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 336, 73
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 260, 69
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 433
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 130, 10
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 372, 154
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 476, 96
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 260, 18
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 421, 378
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 370, 54
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 420, 320
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 409, 146
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 350, 2
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+face_top
+  rotate: true
+  xy: 353, 210
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 151
+  size: 205, 202
+  orig: 205, 202
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 222, 208
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 2, 8
+  size: 21, 109
+  orig: 21, 109
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 409, 206
+  size: 24, 106
+  orig: 24, 106
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 261, 314
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 31
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 423, 54
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 218, 33
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 222, 340
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 438, 8
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 222, 145
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 209, 156
+  size: 197, 11
+  orig: 197, 11
+  offset: 0, 0
+  index: -1

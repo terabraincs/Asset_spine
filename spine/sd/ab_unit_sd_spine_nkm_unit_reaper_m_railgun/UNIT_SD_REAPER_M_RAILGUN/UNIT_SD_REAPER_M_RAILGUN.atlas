@@ -1,0 +1,279 @@
+
+UNIT_SD_REAPER_M_RAILGUN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_foot
+  rotate: true
+  xy: 270, 319
+  size: 81, 122
+  orig: 81, 122
+  offset: 0, 0
+  index: -1
+A_leg1
+  rotate: false
+  xy: 244, 2
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+A_leg2
+  rotate: false
+  xy: 466, 156
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+B_foot
+  rotate: false
+  xy: 161, 25
+  size: 81, 122
+  orig: 81, 122
+  offset: 0, 0
+  index: -1
+B_leg1
+  rotate: false
+  xy: 304, 2
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+B_leg2
+  rotate: false
+  xy: 391, 57
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 218, 282
+  size: 138, 50
+  orig: 138, 50
+  offset: 0, 0
+  index: -1
+C_foot
+  rotate: true
+  xy: 397, 260
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+C_leg2-1
+  rotate: false
+  xy: 258, 136
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+D_foot
+  rotate: true
+  xy: 258, 183
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+D_leg1-2
+  rotate: true
+  xy: 358, 172
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+antena
+  rotate: true
+  xy: 2, 15
+  size: 8, 75
+  orig: 8, 75
+  offset: 0, 0
+  index: -1
+back_pack
+  rotate: false
+  xy: 2, 274
+  size: 214, 146
+  orig: 214, 146
+  offset: 0, 0
+  index: -1
+battey
+  rotate: true
+  xy: 381, 93
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 281, 402
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 394, 329
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 405, 199
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 149
+  size: 204, 123
+  orig: 204, 123
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 244, 73
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 391, 27
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 435, 95
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+drill
+  rotate: true
+  xy: 2, 25
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+error
+  rotate: false
+  xy: 464, 73
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 405, 135
+  size: 19, 57
+  orig: 19, 57
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 466, 192
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 337, 135
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 270, 251
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 464, 105
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 436, 30
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+oil
+  rotate: true
+  xy: 405, 156
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 364, 6
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 413, 385
+  size: 125, 88
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 435, 58
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+strow
+  rotate: true
+  xy: 316, 74
+  size: 12, 53
+  orig: 12, 53
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 208, 154
+  size: 118, 48
+  orig: 118, 48
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 422
+  size: 277, 88
+  orig: 277, 88
+  offset: 0, 0
+  index: -1
+wire_body
+  rotate: false
+  xy: 364, 24
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+wire_gun
+  rotate: true
+  xy: 316, 88
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1

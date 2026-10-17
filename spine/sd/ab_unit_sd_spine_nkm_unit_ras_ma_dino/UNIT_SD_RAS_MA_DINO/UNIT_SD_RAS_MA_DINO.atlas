@@ -1,0 +1,300 @@
+
+UNIT_SD_RAS_MA_DINO.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 540, 173
+  size: 92, 154
+  orig: 92, 154
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 826, 133
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 826, 87
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 831, 6
+  size: 31, 86
+  orig: 31, 86
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 774, 79
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 932, 235
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 568, 75
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 310
+  size: 332, 200
+  orig: 332, 200
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 815, 255
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 634, 253
+  size: 179, 112
+  orig: 179, 112
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 831, 39
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 911, 131
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 374, 25
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 2, 2
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 634, 175
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 604, 2
+  size: 110, 71
+  orig: 110, 71
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 716, 9
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 489, 2
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 924, 201
+  size: 32, 93
+  orig: 32, 93
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 265, 32
+  size: 107, 71
+  orig: 107, 71
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 815, 195
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 68
+  size: 261, 240
+  orig: 261, 240
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 336, 329
+  size: 181, 288
+  orig: 181, 288
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 265, 105
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 374, 173
+  size: 164, 154
+  orig: 164, 154
+  offset: 0, 0
+  index: -1
+horn_01
+  rotate: false
+  xy: 666, 86
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+horn_02
+  rotate: true
+  xy: 932, 280
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 911, 111
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 998, 140
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 903, 60
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 355, 313
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 115, 4
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 802, 240
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 716, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 911, 83
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 115, 14
+  size: 52, 143
+  orig: 52, 143
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 626, 367
+  size: 204, 143
+  orig: 204, 143
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 336, 310
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 957, 143
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 748, 175
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 374, 92
+  size: 192, 79
+  orig: 192, 79
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 832, 356
+  size: 182, 154
+  orig: 182, 154
+  offset: 0, 0
+  index: -1

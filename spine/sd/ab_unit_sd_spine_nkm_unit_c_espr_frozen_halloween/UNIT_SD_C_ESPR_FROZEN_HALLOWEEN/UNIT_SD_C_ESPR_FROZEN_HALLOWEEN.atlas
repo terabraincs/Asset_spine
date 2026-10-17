@@ -1,0 +1,314 @@
+
+UNIT_SD_C_ESPR_FROZEN_HALLOWEEN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head_accessories
+  rotate: false
+  xy: 408, 231
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+Left Side_Hair
+  rotate: true
+  xy: 218, 116
+  size: 33, 121
+  orig: 33, 121
+  offset: 0, 0
+  index: -1
+Left_Belt
+  rotate: true
+  xy: 226, 99
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Left_Front_Wing_01
+  rotate: false
+  xy: 2, 72
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+Left_Front_Wing_02
+  rotate: false
+  xy: 228, 236
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+Left_Horn
+  rotate: true
+  xy: 388, 49
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+Left_accessories
+  rotate: false
+  xy: 312, 52
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+Right_Back Belt
+  rotate: false
+  xy: 353, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Right_Belt
+  rotate: true
+  xy: 207, 79
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Right_Front_Wing_01
+  rotate: true
+  xy: 221, 419
+  size: 91, 171
+  orig: 91, 171
+  offset: 0, 0
+  index: -1
+Right_Front_Wing_02
+  rotate: false
+  xy: 218, 151
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+Right_Horn
+  rotate: true
+  xy: 394, 137
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+Right_accessories
+  rotate: true
+  xy: 380, 18
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+Side_Hair
+  rotate: true
+  xy: 394, 400
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 470, 120
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 343, 84
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 483, 344
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 460, 2
+  size: 22, 56
+  orig: 22, 56
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 462, 60
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 146, 77
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 247, 51
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 379
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 2, 5
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 82, 2
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 321, 4
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 343, 53
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 398, 184
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 317, 159
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 317, 184
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 388, 92
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 327, 235
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 201, 2
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 247, 2
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 230
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 384, 328
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+hair_right_tail
+  rotate: false
+  xy: 82, 77
+  size: 62, 151
+  orig: 62, 151
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 146, 109
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 228, 317
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 226, 77
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 384, 292
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 132, 244
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 132, 231
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 353, 14
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 331, 292
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+UNIT_SD_M_FUTURE_SPIDER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_left_leg
+  rotate: false
+  xy: 407, 257
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+back_right_leg
+  rotate: true
+  xy: 164, 49
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 382, 120
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 49
+  size: 266, 160
+  orig: 266, 160
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 415, 364
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 461, 53
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 352, 31
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+front_left_leg
+  rotate: false
+  xy: 271, 69
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+front_right_leg
+  rotate: false
+  xy: 252, 198
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 168, 22
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 407, 199
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 461, 111
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 164, 152
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 317
+  size: 246, 190
+  orig: 246, 190
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 244, 26
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 364, 211
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 250, 392
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 252, 182
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 404, 35
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+shield_1
+  rotate: true
+  xy: 271, 2
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+shield_2
+  rotate: false
+  xy: 382, 68
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 250, 327
+  size: 154, 63
+  orig: 154, 63
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 19
+  size: 164, 28
+  orig: 164, 28
+  offset: 0, 0
+  index: -1

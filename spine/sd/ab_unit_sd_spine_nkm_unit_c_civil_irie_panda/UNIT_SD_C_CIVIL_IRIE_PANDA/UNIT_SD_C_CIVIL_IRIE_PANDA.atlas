@@ -1,0 +1,230 @@
+
+UNIT_SD_C_CIVIL_IRIE_PANDA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: true
+  xy: 161, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+bag_ac
+  rotate: false
+  xy: 453, 115
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 41
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 196, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 2, 9
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 166, 42
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 397, 42
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 226, 36
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 438, 362
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 360
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 436
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 324, 111
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 450, 145
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 424, 64
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 76, 68
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 76, 3
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 440, 277
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 389, 251
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 450, 199
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 311, 47
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 2, 137
+  size: 77, 221
+  orig: 77, 221
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 207, 130
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 235, 247
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 81, 134
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 252, 395
+  size: 167, 115
+  orig: 167, 115
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 286, 47
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 409, 143
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 81, 251
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 235, 345
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 409, 112
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 166, 69
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 252, 329
+  size: 64, 184
+  orig: 64, 184
+  offset: 0, 0
+  index: -1

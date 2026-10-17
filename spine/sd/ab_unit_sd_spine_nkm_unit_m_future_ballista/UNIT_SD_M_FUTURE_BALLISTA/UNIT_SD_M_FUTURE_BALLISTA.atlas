@@ -1,0 +1,153 @@
+
+UNIT_SD_M_FUTURE_BALLISTA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 14
+  size: 141, 162
+  orig: 141, 162
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 385, 220
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 421, 122
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 421, 52
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 178
+  size: 235, 142
+  orig: 235, 142
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 223, 80
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 318, 5
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 479, 466
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 479, 398
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 223, 2
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 275, 2
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 145, 32
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 322
+  size: 393, 188
+  orig: 393, 188
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 352, 78
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: true
+  xy: 397, 313
+  size: 197, 80
+  orig: 197, 80
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 491, 98
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 318, 39
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 239, 219
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 223, 164
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 145, 2
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 239, 161
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1

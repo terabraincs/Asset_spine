@@ -1,0 +1,244 @@
+
+UNIT_SD_C_HILDE_VALEN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 309, 249
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 258, 124
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 416, 18
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 2, 2
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 158, 2
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 381, 96
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 414, 166
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 368
+  size: 235, 142
+  orig: 235, 142
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 258, 41
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 228, 222
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 448, 115
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 448, 69
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 377, 351
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 448, 236
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 387, 266
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 329, 167
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 361, 2
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 463, 316
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: true
+  xy: 330, 82
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 64, 7
+  size: 17, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 26
+  size: 154, 162
+  orig: 154, 162
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 190
+  size: 146, 176
+  orig: 146, 176
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 386, 162
+  size: 26, 85
+  orig: 26, 85
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 416, 80
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 150, 222
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 385, 402
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 123, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 258, 2
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 239, 409
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 381, 82
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 482, 124
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 239, 351
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: true
+  xy: 158, 35
+  size: 185, 48
+  orig: 185, 48
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: true
+  xy: 208, 35
+  size: 185, 48
+  orig: 185, 48
+  offset: 0, 0
+  index: -1

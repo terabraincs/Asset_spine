@@ -1,0 +1,146 @@
+
+UNIT_SD_M_STATE_GUNSHIP.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_engine
+  rotate: false
+  xy: 333, 7
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+a_weapon_1
+  rotate: true
+  xy: 396, 2
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+a_weapon_2
+  rotate: false
+  xy: 348, 304
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 298
+  size: 344, 212
+  orig: 344, 212
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 183, 34
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 120
+  size: 292, 176
+  orig: 292, 176
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 367, 170
+  size: 158, 98
+  orig: 158, 98
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 463, 61
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 463, 4
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 476, 376
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 269, 24
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 410, 28
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 24
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+propeller
+  rotate: false
+  xy: 333, 47
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 476, 351
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 348, 330
+  size: 180, 126
+  orig: 180, 126
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 476, 460
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 296, 127
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 367, 124
+  size: 105, 44
+  orig: 105, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+UNIT_SD_CORRUPTED_M_ARMOR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_1
+  rotate: true
+  xy: 257, 408
+  size: 101, 191
+  orig: 101, 191
+  offset: 0, 0
+  index: -1
+acc_2
+  rotate: true
+  xy: 257, 324
+  size: 82, 181
+  orig: 82, 181
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 258, 18
+  size: 82, 117
+  orig: 82, 117
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 127, 176
+  size: 179, 110
+  orig: 179, 110
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 345, 103
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+body_left_arm1
+  rotate: true
+  xy: 386, 79
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+body_left_arm2
+  rotate: true
+  xy: 377, 9
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 440, 327
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 440, 73
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+body_right_arm1
+  rotate: false
+  xy: 461, 166
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+body_right_arm2
+  rotate: false
+  xy: 472, 220
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 386, 114
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 386, 160
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 357
+  size: 253, 152
+  orig: 253, 152
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 395, 235
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 258, 102
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 472, 272
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 377, 43
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 239, 240
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 19
+  size: 143, 145
+  orig: 143, 145
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 177, 3
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 239, 193
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 239, 340
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 426, 51
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 345, 130
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 147, 19
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 239, 178
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 467, 134
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 450, 363
+  size: 146, 60
+  orig: 146, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 166
+  size: 123, 189
+  orig: 123, 189
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 2, 2
+  size: 15, 173
+  orig: 15, 173
+  offset: 0, 0
+  index: -1

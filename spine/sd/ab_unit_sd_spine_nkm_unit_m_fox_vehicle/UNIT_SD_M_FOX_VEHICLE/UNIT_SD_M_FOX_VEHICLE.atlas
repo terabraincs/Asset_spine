@@ -1,0 +1,153 @@
+
+UNIT_SD_M_FOX_VEHICLE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 189
+  size: 285, 135
+  orig: 285, 135
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 191, 99
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 326
+  size: 306, 184
+  orig: 306, 184
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 310, 273
+  size: 165, 103
+  orig: 165, 103
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 456, 79
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 456, 20
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 477, 290
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 281, 102
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 281, 47
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 88
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 319, 21
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 289, 169
+  size: 48, 131
+  orig: 48, 131
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 310, 378
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 456, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 265, 9
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+tire1
+  rotate: false
+  xy: 382, 71
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tire2
+  rotate: false
+  xy: 191, 25
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 14
+  size: 177, 72
+  orig: 177, 72
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 289, 219
+  size: 213, 52
+  orig: 213, 52
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 422, 145
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 382, 6
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+UNIT_SD_M_STATE_HELI.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom1
+  rotate: false
+  xy: 2, 237
+  size: 507, 271
+  orig: 507, 271
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 435, 191
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 40
+  size: 151, 91
+  orig: 151, 91
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 352, 184
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 253, 147
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 69, 5
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+door
+  rotate: true
+  xy: 481, 211
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 258, 170
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 155, 98
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 155, 70
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 258, 186
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 155, 56
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 2
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 164, 170
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 120, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 481, 191
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 302, 171
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+top3
+  rotate: true
+  xy: 2, 27
+  size: 11, 116
+  orig: 11, 116
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 164, 132
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 133
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 206, 114
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

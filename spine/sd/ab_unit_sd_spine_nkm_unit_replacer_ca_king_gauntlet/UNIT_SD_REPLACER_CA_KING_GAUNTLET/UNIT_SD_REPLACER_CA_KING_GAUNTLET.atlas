@@ -1,0 +1,244 @@
+
+UNIT_SD_REPLACER_CA_KING_GAUNTLET.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 554, 104
+  size: 101, 132
+  orig: 101, 132
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 413, 17
+  size: 134, 97
+  orig: 134, 97
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 775, 109
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+body_left_arm_01
+  rotate: false
+  xy: 660, 40
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+body_left_arm_02
+  rotate: true
+  xy: 970, 135
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+body_left_arm_03
+  rotate: false
+  xy: 221, 6
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 60, 3
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+body_left_leg_01
+  rotate: false
+  xy: 943, 6
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 841, 118
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+body_right_arm_01
+  rotate: false
+  xy: 549, 17
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+body_right_arm_02
+  rotate: false
+  xy: 269, 3
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+body_right_arm_03
+  rotate: true
+  xy: 174, 2
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 768, 46
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1
+body_right_leg_01
+  rotate: false
+  xy: 2, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 657, 126
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 267
+  size: 403, 243
+  orig: 403, 243
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 413, 116
+  size: 139, 120
+  orig: 139, 120
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 275, 48
+  size: 217, 136
+  orig: 217, 136
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 885, 31
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 943, 55
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 868, 263
+  size: 247, 130
+  orig: 247, 130
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 54
+  size: 271, 211
+  orig: 271, 211
+  offset: 0, 0
+  index: -1
+head_fx
+  rotate: true
+  xy: 909, 133
+  size: 128, 59
+  orig: 128, 59
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 1000, 458
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 660, 17
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 328, 21
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 823, 275
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 648, 244
+  size: 63, 173
+  orig: 63, 173
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 407, 336
+  size: 248, 174
+  orig: 248, 174
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 1000, 435
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 970, 193
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+right_arm_acc
+  rotate: false
+  xy: 734, 2
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 413, 238
+  size: 233, 96
+  orig: 233, 96
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 657, 309
+  size: 209, 201
+  orig: 209, 201
+  offset: 0, 0
+  index: -1

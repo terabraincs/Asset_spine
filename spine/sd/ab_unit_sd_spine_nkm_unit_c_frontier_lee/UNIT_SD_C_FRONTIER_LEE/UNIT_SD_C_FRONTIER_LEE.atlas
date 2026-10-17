@@ -1,0 +1,188 @@
+
+UNIT_SD_C_FRONTIER_LEE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 378, 269
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 373, 29
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 444, 122
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 286, 116
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 472, 209
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 162, 22
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 334
+  size: 292, 176
+  orig: 292, 176
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 183, 108
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 10
+  size: 158, 98
+  orig: 158, 98
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 406, 43
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 406, 2
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 248, 12
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 452, 291
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 378, 200
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 320, 107
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 382, 106
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 311, 9
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 184, 197
+  size: 135, 121
+  orig: 135, 121
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 110
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 296, 370
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 474, 132
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 445, 385
+  size: 46, 125
+  orig: 46, 125
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 206
+  size: 180, 126
+  orig: 180, 126
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 493, 495
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 474, 157
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 307, 199
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1

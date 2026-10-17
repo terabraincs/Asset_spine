@@ -1,0 +1,167 @@
+
+UNIT_SD_S_SL_RIFLE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 251, 81
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 171, 51
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 391, 64
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 89, 11
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 392, 98
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 2, 2
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 395, 240
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 321
+  size: 310, 187
+  orig: 310, 187
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 301, 212
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 49
+  size: 167, 104
+  orig: 167, 104
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 324, 65
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 204, 30
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 479, 95
+  size: 29, 87
+  orig: 29, 87
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 324, 110
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 395, 184
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 314, 408
+  size: 190, 100
+  orig: 190, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 155
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 172, 24
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 251, 186
+  size: 48, 133
+  orig: 48, 133
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 301, 194
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 474, 40
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 314, 332
+  size: 179, 74
+  orig: 179, 74
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 171, 90
+  size: 229, 78
+  orig: 229, 78
+  offset: 0, 0
+  index: -1

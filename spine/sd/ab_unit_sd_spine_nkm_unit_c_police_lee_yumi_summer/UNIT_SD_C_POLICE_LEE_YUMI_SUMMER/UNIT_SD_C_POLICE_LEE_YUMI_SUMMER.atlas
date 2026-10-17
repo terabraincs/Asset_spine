@@ -1,0 +1,216 @@
+
+UNIT_SD_C_POLICE_LEE_YUMI_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 392, 302
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 213, 165
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 379, 3
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 444, 172
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 444, 140
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 373, 124
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 363
+  size: 239, 144
+  orig: 239, 144
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 288, 122
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 272, 195
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 457, 105
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 467, 28
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 379, 27
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 458, 203
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 291, 2
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 376, 75
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 288, 59
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 403, 220
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 154
+  size: 145, 207
+  orig: 145, 207
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 186, 49
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 107, 6
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 243, 389
+  size: 217, 118
+  orig: 217, 118
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: true
+  xy: 149, 165
+  size: 196, 62
+  orig: 196, 62
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 272, 277
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 243, 368
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 186, 10
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 2, 5
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 403, 206
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 457, 75
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 213, 223
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 462, 285
+  size: 48, 222
+  orig: 48, 222
+  offset: 0, 0
+  index: -1

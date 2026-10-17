@@ -1,0 +1,230 @@
+
+UNIT_SD_C_STREGA_EVELYN_CAFFE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Earring
+  rotate: true
+  xy: 246, 98
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 330, 237
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 362, 59
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 336, 44
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 2, 2
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 464, 241
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 72, 7
+  size: 79, 8
+  orig: 79, 8
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 388, 237
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 428, 107
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 354
+  size: 257, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 421, 432
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 158, 92
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 391, 89
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 428, 71
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 73, 17
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 421, 375
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 274, 19
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 385, 145
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 411, 313
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 444, 143
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 246, 113
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 201, 237
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 167, 16
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 73, 74
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 73, 233
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 336, 22
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 343, 125
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 261, 398
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 201, 339
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 478, 97
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 261, 335
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 31
+  size: 69, 321
+  orig: 69, 321
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+UNIT_SD_M_RAS_TOWER_WEDDING.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 285, 10
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+body_acc
+  rotate: false
+  xy: 437, 68
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 368, 315
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 250, 149
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 437, 134
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 436, 157
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 360, 20
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 356, 81
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 449, 252
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+deodumi
+  rotate: true
+  xy: 217, 403
+  size: 107, 172
+  orig: 107, 172
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 382
+  size: 213, 128
+  orig: 213, 128
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 210, 5
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 176, 89
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 437, 103
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 407, 39
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 454, 331
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 362, 110
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 368, 265
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 448, 179
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 367, 211
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 362, 157
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 385, 19
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 124, 2
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 171, 2
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 198
+  size: 137, 182
+  orig: 137, 182
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 43
+  size: 120, 153
+  orig: 120, 153
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 2, 15
+  size: 26, 104
+  orig: 26, 104
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 235, 238
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 391, 412
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 493, 157
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 141, 206
+  size: 33, 91
+  orig: 33, 91
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 235, 309
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 437, 41
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 124, 73
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 250, 70
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 141, 241
+  size: 92, 139
+  orig: 92, 139
+  offset: 0, 0
+  index: -1

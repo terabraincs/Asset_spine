@@ -1,0 +1,286 @@
+
+UNIT_SD_ALPHA_C_CHOWON_PR_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left_Arm
+  rotate: true
+  xy: 352, 2
+  size: 29, 63
+  orig: 30, 64
+  offset: 0, 1
+  index: -1
+Left_Leg
+  rotate: false
+  xy: 352, 33
+  size: 24, 65
+  orig: 25, 66
+  offset: 0, 1
+  index: -1
+Right_Arm
+  rotate: false
+  xy: 375, 108
+  size: 26, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+Right_Leg
+  rotate: false
+  xy: 461, 221
+  size: 30, 69
+  orig: 31, 70
+  offset: 0, 1
+  index: -1
+bag
+  rotate: false
+  xy: 251, 3
+  size: 49, 73
+  orig: 49, 74
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 392, 290
+  size: 60, 87
+  orig: 60, 88
+  offset: 0, 1
+  index: -1
+body_ac
+  rotate: true
+  xy: 151, 5
+  size: 13, 22
+  orig: 14, 23
+  offset: 0, 1
+  index: -1
+common_shadow
+  rotate: false
+  xy: 175, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 355
+  size: 256, 155
+  orig: 257, 155
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 420, 379
+  size: 89, 76
+  orig: 89, 77
+  offset: 0, 1
+  index: -1
+digger
+  rotate: true
+  xy: 87, 20
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 378, 52
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 363, 180
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 302, 2
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 242, 78
+  size: 86, 48
+  orig: 86, 49
+  offset: 0, 1
+  index: -1
+face_c
+  rotate: true
+  xy: 454, 292
+  size: 85, 55
+  orig: 85, 56
+  offset: 0, 1
+  index: -1
+face_d
+  rotate: false
+  xy: 162, 166
+  size: 87, 49
+  orig: 88, 49
+  offset: 1, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 175, 78
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 420, 457
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 349, 100
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 292, 89
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 414, 205
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 161
+  size: 158, 192
+  orig: 159, 193
+  offset: 0, 1
+  index: -1
+hair_front
+  rotate: true
+  xy: 162, 217
+  size: 136, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 2, 2
+  size: 157, 83
+  orig: 157, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 264, 279
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 461, 205
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 87, 5
+  size: 45, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 134, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 403, 166
+  size: 12, 8
+  orig: 13, 10
+  offset: 0, 1
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 251, 166
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 292, 80
+  size: 8, 7
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 162, 161
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 434, 143
+  size: 23, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 251, 174
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 260, 399
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 392, 384
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 403, 120
+  size: 29, 43
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 264, 216
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 413, 165
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1

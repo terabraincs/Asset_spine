@@ -1,0 +1,251 @@
+
+UNIT_SD_MAID_C_MASK_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_Hair
+  rotate: false
+  xy: 2, 172
+  size: 145, 200
+  orig: 145, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 411, 83
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+body_Front
+  rotate: false
+  xy: 457, 116
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 222, 2
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 380, 37
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 297, 15
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 326, 35
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 149, 149
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 374
+  size: 226, 136
+  orig: 226, 136
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 143, 69
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 371, 281
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 455, 250
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 293, 80
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 212, 79
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 357, 233
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 408, 152
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 331, 99
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 447, 416
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 143, 24
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 357, 34
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 222, 29
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 457, 175
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 49
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 217, 231
+  size: 138, 73
+  orig: 138, 73
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 331, 144
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+hat_front
+  rotate: false
+  xy: 230, 405
+  size: 215, 105
+  orig: 215, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 217, 124
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 326, 15
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 12
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 230, 306
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 357, 292
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 101, 20
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 449, 283
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 149, 216
+  size: 156, 66
+  orig: 156, 66
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 457, 87
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1

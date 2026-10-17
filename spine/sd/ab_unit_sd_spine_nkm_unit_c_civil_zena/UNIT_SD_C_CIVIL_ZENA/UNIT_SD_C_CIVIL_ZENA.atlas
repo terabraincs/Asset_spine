@@ -1,0 +1,237 @@
+
+UNIT_SD_C_CIVIL_ZENA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 431, 310
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 479, 179
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 386, 47
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+body_03
+  rotate: false
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 217, 15
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 479, 114
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 484, 244
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 145, 14
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 244, 49
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 292, 96
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 360
+  size: 248, 150
+  orig: 248, 150
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 292, 170
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 156, 159
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 459, 458
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 421, 77
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 286, 246
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 145, 52
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 385, 244
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 380, 178
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 380, 112
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 287, 30
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 2, 248
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: true
+  xy: 406, 399
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 25
+  size: 141, 112
+  orig: 141, 112
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 252, 373
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 162, 244
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 406, 377
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 156, 118
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 139
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 495, 497
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 421, 46
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 286, 312
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 252, 455
+  size: 205, 55
+  orig: 205, 55
+  offset: 0, 0
+  index: -1

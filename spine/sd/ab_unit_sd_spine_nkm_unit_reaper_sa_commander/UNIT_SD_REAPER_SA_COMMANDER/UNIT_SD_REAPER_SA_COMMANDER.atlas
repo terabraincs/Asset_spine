@@ -1,0 +1,279 @@
+
+UNIT_SD_REAPER_SA_COMMANDER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair
+  rotate: true
+  xy: 215, 385
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+body belt
+  rotate: false
+  xy: 443, 270
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 373, 271
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 382, 60
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 427, 142
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 304, 11
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 130, 2
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 443, 317
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 383
+  size: 211, 127
+  orig: 211, 127
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 173, 7
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 2
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 413, 85
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 413, 52
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 226, 129
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 442, 171
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 284, 132
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 245, 29
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 304, 42
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 375, 172
+  size: 97, 65
+  orig: 97, 65
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: false
+  xy: 2, 229
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 239, 240
+  size: 143, 75
+  orig: 143, 75
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 139, 128
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 83
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+jaket2
+  rotate: false
+  xy: 362, 386
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+jaket_1
+  rotate: false
+  xy: 447, 94
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 487, 443
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 245, 12
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 493, 122
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 399, 43
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 447, 85
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 487, 432
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 427, 136
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 487, 483
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 139, 90
+  size: 36, 100
+  orig: 36, 100
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 136, 237
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 382, 43
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 375, 136
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 316, 248
+  size: 135, 55
+  orig: 135, 55
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 349, 137
+  size: 24, 109
+  orig: 24, 109
+  offset: 0, 0
+  index: -1

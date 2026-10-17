@@ -1,0 +1,300 @@
+
+UNIT_SD_ANAPILIS_CA_SCYTHE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 318, 195
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 284, 79
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 159, 181
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 205, 2
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 224, 67
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 447, 146
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 222, 129
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 374
+  size: 226, 136
+  orig: 226, 136
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 153, 101
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 318, 251
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 284, 46
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 228, 2
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 289, 101
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 370, 84
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 289, 146
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 449, 70
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 2, 2
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 370, 129
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 153, 63
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 60
+  size: 149, 119
+  orig: 149, 119
+  offset: 0, 0
+  index: -1
+hair_left_back
+  rotate: false
+  xy: 159, 215
+  size: 58, 157
+  orig: 58, 157
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 255, 46
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+hair_right_back
+  rotate: true
+  xy: 230, 375
+  size: 135, 198
+  orig: 135, 198
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 430, 372
+  size: 138, 73
+  orig: 138, 73
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 396, 297
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+neck_ac
+  rotate: false
+  xy: 370, 179
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: true
+  xy: 333, 48
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 493, 104
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: false
+  xy: 289, 10
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 358, 87
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 505, 499
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 503, 232
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 284, 117
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 289, 26
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 219, 196
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 219, 233
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 493, 90
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 260, 6
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+sklirt
+  rotate: false
+  xy: 396, 241
+  size: 112, 54
+  orig: 112, 54
+  offset: 0, 0
+  index: -1
+sklirt_back
+  rotate: false
+  xy: 396, 179
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 72, 4
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 181
+  size: 155, 191
+  orig: 155, 191
+  offset: 0, 0
+  index: -1

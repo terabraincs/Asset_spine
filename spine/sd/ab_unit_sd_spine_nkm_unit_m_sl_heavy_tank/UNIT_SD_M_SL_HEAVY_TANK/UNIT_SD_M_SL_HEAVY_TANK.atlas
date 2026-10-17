@@ -1,0 +1,132 @@
+
+UNIT_SD_M_SL_HEAVY_TANK.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 98
+  size: 278, 107
+  orig: 278, 107
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 2
+  size: 186, 12
+  orig: 186, 12
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 2, 378
+  size: 271, 132
+  orig: 271, 132
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 133, 66
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 111, 137
+  size: 239, 144
+  orig: 239, 144
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 16
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 463, 460
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 133, 16
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 204, 50
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 275, 386
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 424, 407
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 275, 407
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 498, 498
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 463, 417
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 452, 122
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 452, 262
+  size: 143, 44
+  orig: 143, 44
+  offset: 0, 0
+  index: -1
+wheel_gear
+  rotate: true
+  xy: 336, 136
+  size: 269, 114
+  orig: 269, 114
+  offset: 0, 0
+  index: -1
+wheel_gear_2
+  rotate: true
+  xy: 257, 129
+  size: 247, 77
+  orig: 247, 77
+  offset: 0, 0
+  index: -1

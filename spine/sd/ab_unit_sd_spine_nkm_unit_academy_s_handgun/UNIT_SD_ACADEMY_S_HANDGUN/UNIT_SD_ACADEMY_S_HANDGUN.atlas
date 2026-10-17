@@ -1,0 +1,230 @@
+
+UNIT_SD_ACADEMY_S_HANDGUN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 163, 266
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 2, 3
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 263, 112
+  size: 27, 71
+  orig: 27, 71
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 261, 185
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 182, 4
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 152, 185
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 344
+  size: 275, 166
+  orig: 275, 166
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 351, 217
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 183
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 122, 3
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 263, 70
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 408, 2
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 351, 109
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 448, 200
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 258, 5
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 292, 114
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 351, 16
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 233, 187
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 448, 109
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 408, 59
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 351, 166
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 450, 289
+  size: 58, 137
+  orig: 58, 137
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 2, 37
+  size: 75, 144
+  orig: 75, 144
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 279, 301
+  size: 168, 89
+  orig: 168, 89
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 79, 43
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 316, 90
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 218, 65
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 279, 392
+  size: 169, 118
+  orig: 169, 118
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 332, 285
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 73, 3
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 277
+  size: 159, 65
+  orig: 159, 65
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 450, 428
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1

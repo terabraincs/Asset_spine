@@ -1,0 +1,251 @@
+
+UNIT_SD_LOTUS_C_KNUCKLE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 192, 16
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+bhair
+  rotate: false
+  xy: 2, 145
+  size: 178, 192
+  orig: 178, 192
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 368, 188
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 182, 147
+  size: 35, 88
+  orig: 35, 88
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 484, 83
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 399, 16
+  size: 31, 81
+  orig: 31, 81
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 432, 39
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 486, 229
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 339
+  size: 284, 171
+  orig: 284, 171
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 182, 184
+  size: 153, 95
+  orig: 153, 95
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 422, 118
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 472, 457
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 247, 48
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 301, 41
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 430, 159
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 301, 95
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 454, 255
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 192, 46
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+fhair
+  rotate: false
+  xy: 288, 354
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 279, 191
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 3
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 432, 22
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: true
+  xy: 486, 176
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 146, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 470, 101
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 422, 172
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 470, 22
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 470, 95
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 430, 257
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 146, 21
+  size: 44, 122
+  orig: 44, 122
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 359, 99
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 486, 159
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 470, 33
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+sidehair
+  rotate: false
+  xy: 472, 354
+  size: 33, 101
+  orig: 33, 101
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 288, 285
+  size: 164, 67
+  orig: 164, 67
+  offset: 0, 0
+  index: -1

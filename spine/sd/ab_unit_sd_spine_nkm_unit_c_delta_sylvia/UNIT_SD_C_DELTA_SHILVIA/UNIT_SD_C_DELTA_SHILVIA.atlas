@@ -1,0 +1,328 @@
+
+UNIT_SD_C_DELTA_SHILVIA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 251, 150
+  size: 49, 97
+  orig: 49, 97
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 231, 2
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 324, 31
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 345, 201
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 316, 4
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 456, 98
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 381, 5
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 384, 93
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 363
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 145, 48
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 162, 230
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 475, 265
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 350, 153
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 400, 358
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 389, 264
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 231, 54
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 392, 165
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 251, 201
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 392, 208
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 145, 5
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 31
+  size: 141, 88
+  orig: 141, 88
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 381, 38
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 135, 123
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 236
+  size: 158, 125
+  orig: 158, 125
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 2, 3
+  size: 26, 104
+  orig: 26, 104
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 250, 112
+  size: 36, 113
+  orig: 36, 113
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 248, 324
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 121
+  size: 131, 113
+  orig: 131, 113
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 486, 413
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 399, 318
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 248, 405
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 130, 16
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 474, 165
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 246, 264
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 480, 219
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 468, 55
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 444, 48
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: false
+  xy: 365, 128
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+weapon_R_light
+  rotate: false
+  xy: 108, 4
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+weapon_face_a
+  rotate: true
+  xy: 449, 10
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+weapon_face_b
+  rotate: true
+  xy: 470, 17
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+weapon_face_c
+  rotate: true
+  xy: 486, 434
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+weapon_face_d
+  rotate: true
+  xy: 493, 384
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+weapon_face_e
+  rotate: true
+  xy: 486, 472
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+weapon_head
+  rotate: false
+  xy: 400, 412
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: false
+  xy: 135, 162
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1

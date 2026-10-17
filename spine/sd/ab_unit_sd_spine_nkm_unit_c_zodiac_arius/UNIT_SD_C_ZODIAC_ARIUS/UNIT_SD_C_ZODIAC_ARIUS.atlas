@@ -1,0 +1,216 @@
+
+UNIT_SD_C_ZODIAC_ARIUS.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 232, 189
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 485, 224
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 487, 158
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 421, 98
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 408, 66
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+body_top
+  rotate: false
+  xy: 408, 38
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 188, 24
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 97
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 151, 106
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 2, 13
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 421, 126
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 405, 4
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 226, 96
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 135, 11
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 333, 109
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 323, 6
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 260, 22
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 323, 54
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 343
+  size: 228, 166
+  orig: 228, 166
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 384, 403
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: true
+  xy: 344, 222
+  size: 64, 139
+  orig: 64, 139
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 151, 192
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 232, 290
+  size: 140, 112
+  orig: 140, 112
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 453, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 226, 149
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 232, 404
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 314, 134
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 456, 23
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 344, 162
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 374, 288
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1

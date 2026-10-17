@@ -1,0 +1,300 @@
+
+UNIT_SD_CA_JOO_SHI_YOON_GAUNTLET.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 72, 2
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 435, 244
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 2, 2
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 355, 3
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 444, 14
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 225, 275
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 372, 146
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 350
+  size: 266, 160
+  orig: 266, 160
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 133, 46
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 142, 127
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 316, 54
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 475, 40
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 367, 89
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 276, 112
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 276, 169
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 355, 31
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 227, 52
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 451, 155
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 32
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: false
+  xy: 386, 225
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+hair_top1
+  rotate: false
+  xy: 456, 92
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 270, 307
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 146
+  size: 138, 124
+  orig: 138, 124
+  offset: 0, 0
+  index: -1
+jacket_1
+  rotate: true
+  xy: 141, 3
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+jacket_2
+  rotate: true
+  xy: 232, 25
+  size: 25, 88
+  orig: 25, 88
+  offset: 0, 0
+  index: -1
+jacket_3
+  rotate: false
+  xy: 475, 18
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+jacket_4
+  rotate: false
+  xy: 475, 2
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+jacket_back
+  rotate: false
+  xy: 276, 235
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 233, 112
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 259, 9
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 493, 137
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 499, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: true
+  xy: 133, 131
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 372, 225
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: true
+  xy: 227, 114
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 232, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 233, 128
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 270, 395
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 425, 15
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 322, 7
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 435, 356
+  size: 154, 63
+  orig: 154, 63
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 272
+  size: 221, 76
+  orig: 221, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+UNIT_SD_C_HB_RUMI_RACING.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodt_top
+  rotate: true
+  xy: 177, 129
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+bodt_top2
+  rotate: false
+  xy: 501, 425
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 255, 66
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 213, 39
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 306, 48
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 375, 237
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 478, 246
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 311, 142
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 371
+  size: 230, 139
+  orig: 230, 139
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 229, 140
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 229, 256
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 478, 309
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 166, 2
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 166, 47
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 434, 179
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 380, 155
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 434, 129
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 355, 264
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 177, 139
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 306, 71
+  size: 22, 64
+  orig: 22, 64
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 434, 78
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 213, 63
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 184
+  size: 173, 185
+  orig: 173, 185
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 377, 359
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 306, 95
+  size: 20, 72
+  orig: 20, 72
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 311, 117
+  size: 23, 67
+  orig: 23, 67
+  offset: 0, 0
+  index: -1
+hair_right_tail
+  rotate: false
+  xy: 177, 217
+  size: 50, 152
+  orig: 50, 152
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 234, 335
+  size: 141, 74
+  orig: 141, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 22
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 2, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 377, 321
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 234, 411
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 355, 321
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 380, 88
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+ribbon_back
+  rotate: false
+  xy: 116, 14
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+ribbon_front
+  rotate: true
+  xy: 229, 211
+  size: 43, 144
+  orig: 43, 144
+  offset: 0, 0
+  index: -1
+towel_1
+  rotate: true
+  xy: 380, 117
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+towel_2
+  rotate: false
+  xy: 437, 226
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 377, 455
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 129
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1

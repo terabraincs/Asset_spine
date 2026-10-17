@@ -1,0 +1,209 @@
+
+UNIT_SD_C_ESPR_SHADOW_SUMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 428, 138
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 131, 96
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 417, 70
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 386, 60
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 151, 3
+  size: 27, 74
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 350, 57
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 70, 4
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 344
+  size: 275, 166
+  orig: 275, 166
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 428, 196
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 173, 194
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 388, 166
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 349, 4
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 151, 32
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 253, 73
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 440, 410
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 449, 317
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 2, 2
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 253, 12
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 267, 182
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 85
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 417, 103
+  size: 33, 82
+  orig: 33, 82
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 279, 293
+  size: 168, 89
+  orig: 168, 89
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 279, 384
+  size: 159, 126
+  orig: 159, 126
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 449, 293
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 234, 137
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 224
+  size: 169, 118
+  orig: 169, 118
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 131, 208
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 354, 133
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 267, 226
+  size: 159, 65
+  orig: 159, 65
+  offset: 0, 0
+  index: -1

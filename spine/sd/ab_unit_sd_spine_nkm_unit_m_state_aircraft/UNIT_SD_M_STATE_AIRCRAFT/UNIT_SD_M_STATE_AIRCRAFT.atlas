@@ -1,0 +1,174 @@
+
+UNIT_SD_M_STATE_AIRCRAFT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 233
+  size: 333, 97
+  orig: 333, 97
+  offset: 0, 0
+  index: -1
+body_ac_2
+  rotate: false
+  xy: 454, 18
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+body_ac_3
+  rotate: true
+  xy: 471, 430
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+body_ac_4
+  rotate: true
+  xy: 243, 80
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+body_ac_5
+  rotate: false
+  xy: 471, 382
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+booster
+  rotate: true
+  xy: 281, 75
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 425, 129
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 332
+  size: 288, 174
+  orig: 288, 174
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 337, 225
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 454, 67
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 279, 35
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 425, 46
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: true
+  xy: 180, 53
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 373, 42
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 2, 53
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 2, 6
+  size: 116, 18
+  orig: 116, 18
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 425, 21
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 292, 382
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 292, 365
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 243, 29
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 436, 214
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+wing_a
+  rotate: false
+  xy: 2, 148
+  size: 277, 83
+  orig: 277, 83
+  offset: 0, 0
+  index: -1
+wing_b
+  rotate: false
+  xy: 2, 26
+  size: 223, 25
+  orig: 223, 25
+  offset: 0, 0
+  index: -1
+wing_c
+  rotate: false
+  xy: 281, 137
+  size: 142, 86
+  orig: 142, 86
+  offset: 0, 0
+  index: -1

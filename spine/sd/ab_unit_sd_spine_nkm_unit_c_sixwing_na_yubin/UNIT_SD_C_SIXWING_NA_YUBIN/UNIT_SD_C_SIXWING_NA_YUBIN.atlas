@@ -1,0 +1,230 @@
+
+UNIT_SD_C_SIXWING_NA_YUBIN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 424, 243
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 447, 47
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 487, 195
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 474, 45
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 127, 2
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 391, 167
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 173
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 127, 35
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 248, 238
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 206, 120
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 355, 130
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 381, 239
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: true
+  xy: 381, 239
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 257, 36
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 389, 111
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 369, 59
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 202, 38
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 401, 329
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 487, 259
+  size: 23, 68
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 257, 84
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 467, 114
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 402, 392
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 250, 322
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 7
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 463, 218
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 248, 138
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 250, 403
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 242, 123
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 338, 87
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 248, 178
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 121
+  size: 202, 50
+  orig: 202, 50
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2, 322
+  size: 246, 186
+  orig: 246, 186
+  offset: 0, 0
+  index: -1

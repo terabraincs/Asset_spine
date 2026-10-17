@@ -1,0 +1,272 @@
+
+UNIT_SD_CA_HILDE_1BIRTHDAY.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 360, 130
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 302, 19
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 413, 132
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+body_left_arm_ac
+  rotate: true
+  xy: 63, 2
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 415, 75
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 116, 2
+  size: 19, 57
+  orig: 19, 57
+  offset: 0, 0
+  index: -1
+body_right_arm_2
+  rotate: true
+  xy: 437, 101
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+body_right_arm_ac
+  rotate: false
+  xy: 363, 2
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 2, 2
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 439, 127
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 382
+  size: 213, 128
+  orig: 213, 128
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: true
+  xy: 237, 34
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+digger
+  rotate: true
+  xy: 334, 224
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 420, 44
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 478, 341
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 463, 263
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 463, 190
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 408, 264
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 363, 56
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 413, 191
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 400, 341
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 31
+  size: 139, 147
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 423, 383
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 437, 75
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 391, 4
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 237, 109
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 227, 241
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 175, 4
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 143, 23
+  size: 33, 91
+  orig: 33, 91
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 143, 58
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 308, 228
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 420, 6
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 308, 99
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+waepon4
+  rotate: false
+  xy: 133, 191
+  size: 92, 189
+  orig: 92, 189
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 2, 180
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+weapon5
+  rotate: true
+  xy: 217, 419
+  size: 91, 204
+  orig: 91, 204
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 227, 380
+  size: 171, 37
+  orig: 171, 37
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: false
+  xy: 227, 341
+  size: 171, 37
+  orig: 171, 37
+  offset: 0, 0
+  index: -1

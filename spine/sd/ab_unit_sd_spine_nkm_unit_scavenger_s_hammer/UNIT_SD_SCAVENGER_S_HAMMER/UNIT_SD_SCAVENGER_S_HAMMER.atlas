@@ -1,0 +1,153 @@
+
+UNIT_SD_SCAVENGER_S_HAMMER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 178, 217
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 66, 5
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 186, 49
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 448, 205
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 186, 85
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 186, 129
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 331
+  size: 297, 179
+  orig: 297, 179
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 401, 21
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 274, 111
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 2, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 147, 3
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 301, 285
+  size: 182, 96
+  orig: 182, 96
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 175
+  size: 174, 154
+  orig: 174, 154
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 436, 135
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 487, 483
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 272, 63
+  size: 46, 127
+  orig: 46, 127
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 45
+  size: 182, 128
+  orig: 182, 128
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 274, 314
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 205, 12
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 274, 213
+  size: 172, 70
+  orig: 172, 70
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 301, 383
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1

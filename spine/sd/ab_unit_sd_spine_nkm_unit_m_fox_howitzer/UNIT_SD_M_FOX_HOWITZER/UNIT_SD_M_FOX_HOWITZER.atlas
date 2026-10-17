@@ -1,0 +1,139 @@
+
+UNIT_SD_M_FOX_HOWITZER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 317
+  size: 343, 193
+  orig: 343, 193
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 399, 214
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+desk
+  rotate: true
+  xy: 2, 36
+  size: 279, 168
+  orig: 279, 168
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 347, 348
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 264, 42
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 304, 49
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 2, 4
+  size: 26, 78
+  orig: 26, 78
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 172, 42
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 399, 297
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 172, 103
+  size: 171, 90
+  orig: 171, 90
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 82, 4
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: false
+  xy: 465, 92
+  size: 43, 120
+  orig: 43, 120
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 172, 195
+  size: 171, 120
+  orig: 171, 120
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 304, 33
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 465, 43
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 347, 444
+  size: 161, 66
+  orig: 161, 66
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 399, 2
+  size: 210, 64
+  orig: 210, 64
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 106, 5
+  size: 224, 25
+  orig: 224, 25
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: true
+  xy: 347, 32
+  size: 314, 50
+  orig: 314, 50
+  offset: 0, 0
+  index: -1

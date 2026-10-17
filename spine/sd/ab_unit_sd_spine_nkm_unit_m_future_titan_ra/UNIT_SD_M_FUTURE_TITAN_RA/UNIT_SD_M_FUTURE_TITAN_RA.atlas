@@ -1,0 +1,244 @@
+
+UNIT_SD_M_FUTURE_TITAN_RA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 97, 65
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 421, 85
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 217, 296
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+L_leg_down
+  rotate: false
+  xy: 275, 52
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 243, 172
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+R_arm_armor
+  rotate: false
+  xy: 2, 69
+  size: 93, 208
+  orig: 93, 208
+  offset: 0, 0
+  index: -1
+R_armor
+  rotate: true
+  xy: 356, 433
+  size: 77, 149
+  orig: 77, 149
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 160, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 194, 52
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+R_leg_armor
+  rotate: true
+  xy: 2, 13
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+R_leg_down
+  rotate: false
+  xy: 275, 117
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+battey
+  rotate: true
+  xy: 346, 2
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 337, 149
+  size: 119, 55
+  orig: 119, 55
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 97, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 279
+  size: 213, 128
+  orig: 213, 128
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 346, 84
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 337, 206
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 458, 184
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: true
+  xy: 402, 3
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+error
+  rotate: true
+  xy: 454, 231
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 471, 289
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 211, 5
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 346, 45
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 339, 280
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 356, 351
+  size: 135, 80
+  orig: 135, 80
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 458, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+oil
+  rotate: true
+  xy: 282, 7
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 493, 411
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: true
+  xy: 97, 146
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 160, 52
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: false
+  xy: 458, 146
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+strow
+  rotate: false
+  xy: 339, 351
+  size: 13, 56
+  orig: 13, 56
+  offset: 0, 0
+  index: -1
+truck
+  rotate: true
+  xy: 191, 154
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 409
+  size: 352, 101
+  orig: 352, 101
+  offset: 0, 0
+  index: -1

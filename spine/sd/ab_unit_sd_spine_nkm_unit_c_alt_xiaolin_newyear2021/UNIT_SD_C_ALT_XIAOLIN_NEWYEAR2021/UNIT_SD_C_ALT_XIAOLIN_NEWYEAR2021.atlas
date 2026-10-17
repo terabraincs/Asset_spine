@@ -1,0 +1,258 @@
+
+UNIT_SD_C_ALT_XIAOLIN_NEWYEAR2021.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 355, 259
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 373, 20
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 144, 4
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 333, 118
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 332, 86
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+bodyback
+  rotate: false
+  xy: 446, 451
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 440, 104
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 363
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 154, 83
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 248, 365
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: true
+  xy: 404, 90
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 440, 70
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 348, 167
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 462, 176
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 145, 28
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 241, 135
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 240, 83
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 237, 30
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: false
+  xy: 464, 259
+  size: 23, 68
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 160, 158
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 329, 2
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+haed
+  rotate: true
+  xy: 241, 241
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+hair_acc
+  rotate: true
+  xy: 241, 189
+  size: 50, 105
+  orig: 50, 105
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 204
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 381, 329
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 2, 2
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: true
+  xy: 160, 212
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: true
+  xy: 440, 194
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 355, 219
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 2, 97
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 333, 174
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 101, 6
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 37
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 333, 143
+  size: 22, 76
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 489, 274
+  size: 15, 53
+  orig: 15, 53
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 248, 449
+  size: 196, 61
+  orig: 196, 61
+  offset: 0, 0
+  index: -1

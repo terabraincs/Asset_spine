@@ -1,0 +1,279 @@
+
+UNIT_SD_FALLEN_CA_ROSARIA_SPECIAL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antenna
+  rotate: true
+  xy: 699, 121
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 627, 334
+  size: 167, 176
+  orig: 167, 176
+  offset: 0, 0
+  index: -1
+body_back_ribbon
+  rotate: true
+  xy: 895, 137
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 691, 19
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 138, 10
+  size: 37, 100
+  orig: 37, 100
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 895, 87
+  size: 48, 101
+  orig: 48, 101
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 504, 8
+  size: 52, 106
+  orig: 52, 106
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 735, 25
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 575, 184
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 150, 340
+  size: 281, 170
+  orig: 281, 170
+  offset: 0, 0
+  index: -1
+desk_a
+  rotate: false
+  xy: 901, 199
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+digger
+  rotate: false
+  xy: 334, 9
+  size: 168, 105
+  orig: 168, 105
+  offset: 0, 0
+  index: -1
+digger_fx_01
+  rotate: false
+  xy: 240, 4
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+digger_fx_02
+  rotate: false
+  xy: 827, 26
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 762, 199
+  size: 137, 93
+  orig: 137, 93
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 563, 116
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 661, 196
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 762, 117
+  size: 131, 80
+  orig: 131, 80
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 2, 63
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 558, 26
+  size: 131, 88
+  orig: 131, 88
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 150, 151
+  size: 187, 229
+  orig: 187, 229
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: true
+  xy: 796, 294
+  size: 109, 209
+  orig: 109, 209
+  offset: 0, 0
+  index: -1
+hair back_2
+  rotate: true
+  xy: 796, 405
+  size: 105, 224
+  orig: 105, 224
+  offset: 0, 0
+  index: -1
+hard_hat
+  rotate: false
+  xy: 141, 49
+  size: 191, 100
+  orig: 191, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 433, 329
+  size: 192, 181
+  orig: 192, 181
+  offset: 0, 0
+  index: -1
+ofc_ac_food_1
+  rotate: false
+  xy: 735, 2
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+ofc_ac_food_2
+  rotate: false
+  xy: 558, 4
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+ofc_ac_food_3
+  rotate: true
+  xy: 307, 24
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 762, 316
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 381, 329
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 1007, 391
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 329, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+reserch_bug
+  rotate: false
+  xy: 334, 118
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+reserch_glass
+  rotate: true
+  xy: 2, 13
+  size: 48, 134
+  orig: 48, 134
+  offset: 0, 0
+  index: -1
+reserch_hat
+  rotate: false
+  xy: 381, 192
+  size: 192, 135
+  orig: 192, 135
+  offset: 0, 0
+  index: -1
+reserch_light
+  rotate: false
+  xy: 307, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+reserch_smoke
+  rotate: true
+  xy: 827, 69
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 381, 116
+  size: 180, 74
+  orig: 180, 74
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 164
+  size: 146, 346
+  orig: 146, 346
+  offset: 0, 0
+  index: -1
