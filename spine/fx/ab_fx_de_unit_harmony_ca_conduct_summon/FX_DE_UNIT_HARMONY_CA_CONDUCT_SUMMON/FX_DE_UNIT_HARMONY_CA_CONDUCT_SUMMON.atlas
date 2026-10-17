@@ -1,0 +1,293 @@
+
+FX_DE_UNIT_HARMONY_CA_CONDUCT_SUMMON.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg
+  rotate: false
+  xy: 427, 233
+  size: 40, 277
+  orig: 40, 277
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 469, 233
+  size: 40, 277
+  orig: 40, 277
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 2, 101
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1
+armacc
+  rotate: false
+  xy: 335, 7
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+b_crystal_1
+  rotate: false
+  xy: 358, 123
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+b_crystal_10
+  rotate: false
+  xy: 390, 243
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+b_crystal_11
+  rotate: false
+  xy: 237, 29
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+b_crystal_12
+  rotate: false
+  xy: 89, 34
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+b_crystal_13
+  rotate: false
+  xy: 145, 19
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+b_crystal_14
+  rotate: false
+  xy: 350, 208
+  size: 38, 91
+  orig: 38, 91
+  offset: 0, 0
+  index: -1
+b_crystal_15
+  rotate: false
+  xy: 191, 11
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+b_crystal_2
+  rotate: false
+  xy: 475, 56
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+b_crystal_3
+  rotate: false
+  xy: 463, 144
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+b_crystal_4
+  rotate: false
+  xy: 461, 100
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+b_crystal_5
+  rotate: false
+  xy: 328, 108
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+b_crystal_6
+  rotate: false
+  xy: 471, 190
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+b_crystal_7
+  rotate: false
+  xy: 228, 102
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+b_crystal_8
+  rotate: false
+  xy: 283, 99
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+b_crystal_9
+  rotate: false
+  xy: 282, 30
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 141, 288
+  size: 99, 222
+  orig: 99, 222
+  offset: 0, 0
+  index: -1
+bodyacc
+  rotate: false
+  xy: 409, 112
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+bodyback
+  rotate: false
+  xy: 242, 301
+  size: 109, 209
+  orig: 109, 209
+  offset: 0, 0
+  index: -1
+bodyup
+  rotate: false
+  xy: 353, 319
+  size: 72, 191
+  orig: 72, 191
+  offset: 0, 0
+  index: -1
+bodyupup
+  rotate: false
+  xy: 352, 167
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 297, 167
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: false
+  xy: 386, 71
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hand_f1
+  rotate: false
+  xy: 282, 2
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+hand_f2
+  rotate: false
+  xy: 436, 72
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+hand_g
+  rotate: false
+  xy: 386, 45
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 409, 155
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+hand_j
+  rotate: false
+  xy: 385, 15
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+hand_k1
+  rotate: false
+  xy: 2, 5
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 237, 4
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 329, 54
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+headback
+  rotate: false
+  xy: 2, 35
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+headfront
+  rotate: false
+  xy: 409, 197
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+start1
+  rotate: false
+  xy: 297, 193
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+start2
+  rotate: false
+  xy: 228, 167
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+weapon_bass
+  rotate: false
+  xy: 2, 148
+  size: 137, 362
+  orig: 137, 362
+  offset: 0, 0
+  index: -1
+weapon_string
+  rotate: false
+  xy: 210, 111
+  size: 16, 175
+  orig: 16, 175
+  offset: 0, 0
+  index: -1
+weapon_vio
+  rotate: false
+  xy: 141, 126
+  size: 67, 160
+  orig: 67, 160
+  offset: 0, 0
+  index: -1
